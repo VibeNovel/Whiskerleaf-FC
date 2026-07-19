@@ -356,6 +356,7 @@ body {
     width: 100%;
     border-collapse: collapse;
     text-align: left;
+    table-layout: fixed;
 }
 
 .history-table th,
@@ -398,6 +399,8 @@ body {
     align-items: center;
     justify-content: center;
     gap: 1rem;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .spinner {
@@ -467,4 +470,64 @@ footer {
     .search-box input {
         width: 100%;
     }
+}
+
+/* Tooltip Styles */
+.item-container {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted var(--text-secondary);
+    cursor: help;
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+.item-tooltip {
+    visibility: hidden;
+    width: max-content;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    text-align: left;
+    border-radius: 6px;
+    padding: 8px 12px;
+    position: absolute;
+    z-index: 10;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    border: 1px solid var(--panel-border);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    font-size: 0.9rem;
+}
+.item-tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--panel-border) transparent transparent transparent;
+}
+.item-container:hover .item-tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+.tooltip-title {
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: var(--accent-color);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 2px;
+}
+.tooltip-price {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 4px;
+}
+.tooltip-source {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
 }

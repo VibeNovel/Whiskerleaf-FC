@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Fetch Data ---
     async function fetchData() {
         const tbody = document.getElementById('history-tbody');
-        tbody.innerHTML = `<tr><td colspan="4"><div class="loading-state"><div class="spinner"></div><p>載入探索日誌中...</p></div></td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="5"><div class="loading-state"><div class="spinner"></div><p>載入探索日誌中...</p></div></td></tr>`;
         
         try {
             // 加入 timestamp 防止 GitHub 快取
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             filterHistory();
             
         } catch (err) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="5" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
             console.error(err);
         }
     }
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const pagination = document.getElementById('pagination');
         
         if (filteredHistory.length === 0) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="5" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
             pagination.innerHTML = '';
             return;
         }
@@ -98,11 +98,49 @@ document.addEventListener('DOMContentLoaded', () => {
         pageData.forEach(row => {
             const emoji = row.fleetType === 'SUBMERSIBLE' ? '🚤' : '🚁';
             const tr = document.createElement('tr');
+            
+            // Format Items with Tooltips
+            let itemsHtml = row.items || '---';
+            if (row.itemBreakdown && row.itemBreakdown !== "[]" && row.itemBreakdown !== "") {
+                try {
+                    const breakdown = JSON.parse(row.itemBreakdown);
+                    itemsHtml = '';
+                    breakdown.forEach(b => {
+                        const sourceText = b.source === 'market' ? 'Universalis (市場均價)' : (b.source === 'npc' ? 'NPC 商店賣價' : '無法販售');
+                        const priceText = b.unitPrice > 0 ? `💰 ${b.unitPrice.toLocaleString()}` : '無法販售';
+                        itemsHtml += `
+                            <div class="item-container">
+                                ${b.name}
+                                <div class="item-tooltip">
+                                    <div class="tooltip-title">${b.name}</div>
+                                    <div class="tooltip-price">單價: <span>${priceText}</span></div>
+                                    <div class="tooltip-source">來源: ${sourceText}</div>
+                                </div>
+                            </div>`;
+                    });
+                } catch (e) {
+                    console.error("Failed to parse item breakdown:", e);
+                }
+            }
+
+            // Format Estimated Value
+            let estValueHtml = '<span class="no-sell" style="color: var(--text-secondary);">無資料</span>';
+            if (row.estimatedValue !== undefined && row.estimatedValue !== null) {
+                if (row.estimatedValue === -1) {
+                    estValueHtml = '<span class="no-sell" style="color: var(--warning-color);">無法販售</span>';
+                } else if (row.estimatedValue === 0) {
+                    estValueHtml = '<span style="color: var(--text-secondary);">💰 0</span>';
+                } else {
+                    estValueHtml = `<span style="color: var(--accent-color); font-weight: 600;">💰 ${row.estimatedValue.toLocaleString()}</span>`;
+                }
+            }
+
             tr.innerHTML = `
                 <td style="color: var(--text-secondary)">${formatDateLocal(row.createdAt)}</td>
                 <td style="font-weight: 500;">${emoji} ${row.fleetName}</td>
                 <td>${formatRoute(row.route)}</td>
-                <td class="item-list">${row.items || '---'}</td>
+                <td class="item-list">${itemsHtml}</td>
+                <td>${estValueHtml}</td>
             `;
             tbody.appendChild(tr);
         });
