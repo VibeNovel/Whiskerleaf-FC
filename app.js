@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             filterHistory();
             
         } catch (err) {
-            tbody.innerHTML = `<tr><td colspan="4"><div class="loading-state" style="color: #ef4444;"><i class="fa-solid fa-triangle-exclamation fa-2x"></i><p>無法讀取艦隊資料</p></div></td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何收益紀錄</td></tr>`;
             console.error(err);
         }
     }
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const pagination = document.getElementById('pagination');
         
         if (filteredHistory.length === 0) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">沒有找到符合的紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何收益紀錄</td></tr>`;
             pagination.innerHTML = '';
             return;
         }
