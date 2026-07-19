@@ -121,6 +121,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u8033\u98FE x1, \u6C89\u8239\u9805\u934A x1, \u6C89\u8239\u9805\u934A x1, \u9226\u92FC\u584A x999999999999999999999",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T17:29:38.7525722+08:00"
     },
     {
@@ -130,6 +132,8 @@
       "fleetType": "AIRSHIP",
       "route": "\u96F2\u6D773 \u2192 \u96F2\u6D774",
       "items": "9629",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T15:03:21.1338675+08:00"
     },
     {
@@ -139,6 +143,8 @@
       "fleetType": "AIRSHIP",
       "route": "\u96F2\u6D7701",
       "items": "13213",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T15:03:13.7071291+08:00"
     },
     {
@@ -148,6 +154,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239 \u2192 G\u3000\u5098\u5CFD \u2192 L\u3000\u795E\u79D8\u6D77\u76C6 \u2192 A\u3000\u6F54\u767D\u6DFA\u7058 \u2192 B\u3000\u6EBA\u6C92\u6D771",
       "items": "123",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T15:03:04.4801089+08:00"
     },
     {
@@ -157,6 +165,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u8033\u98FE x1",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T15:02:55.7361653+08:00"
     },
     {
@@ -166,6 +176,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u8033\u98FE x1",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T14:18:22.2140628+08:00"
     },
     {
@@ -175,6 +187,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u8033\u98FE x1, \u6C89\u8239\u9805\u934A x1",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T14:16:53.1819407+08:00"
     },
     {
@@ -184,6 +198,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239 \u2192 G\u3000\u5098\u5CFD \u2192 L\u3000\u795E\u79D8\u6D77\u76C6 \u2192 A\u3000\u6F54\u767D\u6DFA\u7058 \u2192 B\u3000\u6EBA\u6C92\u6D771",
       "items": "123",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T13:18:27.9746621+08:00"
     },
     {
@@ -193,6 +209,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u8033\u98FE x1, \u6C89\u8239\u9805\u934A x1",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T13:18:20.7034399+08:00"
     },
     {
@@ -202,6 +220,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u8033\u98FE x5",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T13:13:59.8123952+08:00"
     },
     {
@@ -211,8 +231,10 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u6C89\u8239\u9805\u934A",
+      "estimatedValue": -1,
+      "itemBreakdown": "",
       "createdAt": "2026-07-19T13:09:24.9048735+08:00"
     }
   ],
-  "lastUpdated": "2026-07-19T09:30:12Z"
+  "lastUpdated": "2026-07-19T09:52:04Z"
 }
