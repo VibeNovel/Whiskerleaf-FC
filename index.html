@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MochiBOT - 艦隊營運控制台</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-orbs">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <div class="container">
+        <header class="glass-panel header">
+            <div class="logo">
+                <i class="fa-solid fa-ship"></i>
+                <h1>MochiBOT Fleet Intelligence</h1>
+            </div>
+            <div class="nav-tabs">
+                <button class="tab-btn active" data-tab="status-tab"><i class="fa-solid fa-satellite-dish"></i> 即時狀態</button>
+                <button class="tab-btn" data-tab="history-tab"><i class="fa-solid fa-clock-rotate-left"></i> 歷史收益</button>
+            </div>
+        </header>
+
+        <main class="content-area">
+            <!-- 即時狀態面板 -->
+            <section id="status-tab" class="tab-content active">
+                <div class="section-header">
+                    <h2><i class="fa-solid fa-circle-notch fa-spin"></i> 艦隊即時動態</h2>
+                    <button class="refresh-btn" id="refresh-status"><i class="fa-solid fa-rotate-right"></i></button>
+                </div>
+                
+                <div class="fleet-grid" id="fleet-grid">
+                    <!-- 卡片將由 JS 動態生成 -->
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>同步衛星訊號中...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 歷史收益面板 -->
+            <section id="history-tab" class="tab-content">
+                <div class="section-header">
+                    <h2><i class="fa-solid fa-box-open"></i> 近期打撈收益紀錄</h2>
+                    <div class="controls">
+                        <div class="search-box glass-panel">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" id="search-history" placeholder="搜尋船名、航線或掉落物...">
+                        </div>
+                        <button class="refresh-btn" id="refresh-history"><i class="fa-solid fa-rotate-right"></i></button>
+                    </div>
+                </div>
+
+                <div class="table-container glass-panel">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th>時間</th>
+                                <th>艦隊名稱</th>
+                                <th>航線</th>
+                                <th>獲得物品</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-tbody">
+                            <tr>
+                                <td colspan="4" class="loading-state">
+                                    <div class="spinner"></div>
+                                    <p>載入航海日誌中...</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pagination" id="pagination">
+                    <!-- 分頁將由 JS 生成 -->
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>MochiBOT Fleet Dashboard &copy; 2026. Powered by .NET 10 & Glassmorphism.</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
