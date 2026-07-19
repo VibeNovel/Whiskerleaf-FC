@@ -348,7 +348,7 @@ body {
 
 /* Table */
 .table-container {
-    overflow-x: auto;
+    overflow: visible;
     border-radius: 12px;
 }
 
