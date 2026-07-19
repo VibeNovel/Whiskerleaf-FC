@@ -122,9 +122,9 @@
       "route": "\u96F2\u6D7706 \u2192 \u96F2\u6D7713",
       "items": "\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349x2, \u934A\u91D1\u6A39\u8102x4",
       "estimatedValue": -1,
-      "itemBreakdown": "[{\u0022Name\u0022:\u0022\\u5FB7\\u62C9\\u74E6\\u5C3C\\u4E9E\\u6D6E\\u8349x2\u0022,\u0022Quantity\u0022:1,\u0022UnitPrice\u0022:0,\u0022Source\u0022:\u0022none\u0022},{\u0022Name\u0022:\u0022\\u934A\\u91D1\\u6A39\\u8102x4\u0022,\u0022Quantity\u0022:1,\u0022UnitPrice\u0022:0,\u0022Source\u0022:\u0022none\u0022}]",
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u5FB7\\u62C9\\u74E6\\u5C3C\\u4E9E\\u6D6E\\u8349x2\u0022,\u0022quantity\u0022:2,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022},{\u0022name\u0022:\u0022\\u934A\\u91D1\\u6A39\\u8102x4\u0022,\u0022quantity\u0022:4,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022}]",
       "createdAt": "2026-07-19T18:39:39.5925424+08:00"
     }
   ],
-  "lastUpdated": "2026-07-19T12:45:03Z"
+  "lastUpdated": "2026-07-19T12:48:30Z"
 }
