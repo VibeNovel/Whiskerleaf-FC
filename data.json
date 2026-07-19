@@ -12,7 +12,7 @@
       "favoriteRoute": "",
       "lastDurationMinutes": 1,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,j|1\u0022}",
-      "updatedAt": "2026-07-19T07:02:55.7508508Z"
+      "updatedAt": "2026-07-19T09:29:38.7678851Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
@@ -115,6 +115,15 @@
   ],
   "history": [
     {
+      "id": "59866495-bf5b-4191-8e40-a395ddfbfc85",
+      "fleetId": "a4979482-b8ac-46fd-953c-70918839e906",
+      "fleetName": "1\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
+      "items": "\u6C89\u8239\u8033\u98FE x1, \u6C89\u8239\u9805\u934A x1, \u6C89\u8239\u9805\u934A x1, \u9226\u92FC\u584A x999999999999999999999",
+      "createdAt": "2026-07-19T17:29:38.7525722+08:00"
+    },
+    {
       "id": "af659898-1d72-4025-9a78-66cc9b4108fc",
       "fleetId": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
       "fleetName": "2\u865F \u98DB\u7A7A\u8247",
@@ -205,5 +214,5 @@
       "createdAt": "2026-07-19T13:09:24.9048735+08:00"
     }
   ],
-  "lastUpdated": "2026-07-19T08:51:03Z"
+  "lastUpdated": "2026-07-19T09:30:12Z"
 }
