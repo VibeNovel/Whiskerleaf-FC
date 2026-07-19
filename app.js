@@ -32,19 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }).join(' → ');
     }
 
-    function formatTimeRelative(targetDateStr) {
-        const target = new Date(targetDateStr);
-        const now = new Date();
-        const diffMs = target - now;
-        
-        if (diffMs <= 0) return '已返航等待處理';
-        
-        const diffMins = Math.floor(diffMs / 60000);
-        const hours = Math.floor(diffMins / 60);
-        const mins = diffMins % 60;
-        
-        return `剩餘 ${hours} 小時 ${mins} 分鐘`;
-    
     function formatDateLocal(dateStr) {
         const d = new Date(dateStr);
         return d.toLocaleString('zh-TW', {
@@ -56,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Fetch Data ---
     async function fetchData() {
         const tbody = document.getElementById('history-tbody');
-        tbody.innerHTML = `<tr><td colspan="4"><div class="loading-state"><div class="spinner"></div><p>載入航海日誌中...</p></div></td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="4"><div class="loading-state"><div class="spinner"></div><p>載入探索日誌中...</p></div></td></tr>`;
         
         try {
             // 加入 timestamp 防止 GitHub 快取
@@ -69,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             filterHistory();
             
         } catch (err) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何收益紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
             console.error(err);
         }
     }
@@ -97,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const pagination = document.getElementById('pagination');
         
         if (filteredHistory.length === 0) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何收益紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
             pagination.innerHTML = '';
             return;
         }
