@@ -107,13 +107,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     itemsHtml = '';
                     breakdown.forEach(b => {
                         const itemName = b.name || b.Name;
+                        const qty = b.quantity || b.Quantity || 1;
                         const itemSource = b.source || b.Source;
                         const itemPrice = b.unitPrice !== undefined ? b.unitPrice : b.UnitPrice;
+                        
+                        const displayName = qty > 1 ? `${itemName}x${qty}` : itemName;
                         const sourceText = itemSource === 'market' ? 'Universalis (市場均價)' : (itemSource === 'npc' ? 'NPC 商店賣價' : '無法販售');
                         const priceText = itemPrice > 0 ? `💰 ${itemPrice.toLocaleString()}` : '無法販售';
                         itemsHtml += `
                             <div class="item-container">
-                                ${itemName}
+                                ${displayName}
                                 <div class="item-tooltip">
                                     <div class="tooltip-title">${itemName}</div>
                                     <div class="tooltip-price">單價: <span>${priceText}</span></div>
