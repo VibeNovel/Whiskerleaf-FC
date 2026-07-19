@@ -1,15 +1,15 @@
 :root {
-    --bg-color: #0f172a;
-    --panel-bg: rgba(30, 41, 59, 0.7);
-    --panel-border: rgba(255, 255, 255, 0.1);
+    --bg-color: #0c0a09;
+    --panel-bg: rgba(20, 18, 16, 0.7);
+    --panel-border: rgba(200, 169, 81, 0.2);
     --text-primary: #f8fafc;
-    --text-secondary: #94a3b8;
-    --accent-color: #3b82f6;
-    --accent-hover: #2563eb;
+    --text-secondary: #a8a29e;
+    --accent-color: #c8a951;
+    --accent-hover: #e0be5a;
     --success-color: #10b981;
     --warning-color: #f59e0b;
     --idle-color: #64748b;
-    --glow-color: rgba(59, 130, 246, 0.5);
+    --glow-color: rgba(200, 169, 81, 0.3);
 }
 
 * {
@@ -49,7 +49,7 @@ body {
 .orb-1 {
     width: 400px;
     height: 400px;
-    background: #3b82f6;
+    background: #c8a951;
     top: -100px;
     left: -100px;
 }
@@ -57,7 +57,7 @@ body {
 .orb-2 {
     width: 500px;
     height: 500px;
-    background: #8b5cf6;
+    background: #78350f;
     bottom: -150px;
     right: -100px;
     animation-delay: -5s;
@@ -66,7 +66,7 @@ body {
 .orb-3 {
     width: 300px;
     height: 300px;
-    background: #0ea5e9;
+    background: #b45309;
     top: 40%;
     left: 60%;
     animation-delay: -10s;
@@ -99,25 +99,30 @@ body {
 /* Header */
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 1.5rem 2rem;
+    text-align: center;
 }
 
 .logo {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 1rem;
+    gap: 0.5rem;
     font-family: 'Outfit', sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     font-weight: 700;
-    background: linear-gradient(to right, #60a5fa, #a78bfa);
+    background: linear-gradient(to right, #e0be5a, #c8a951);
     -webkit-background-clip: text;
     color: transparent;
+    letter-spacing: 0.1em;
 }
 
 .logo i {
-    color: #60a5fa;
+    color: #c8a951;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
 }
 
 .nav-tabs {
@@ -168,9 +173,11 @@ body {
 
 .section-header {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     margin-bottom: 1.5rem;
+    gap: 1rem;
 }
 
 .section-header h2 {
@@ -379,7 +386,7 @@ body {
 }
 
 .item-list {
-    color: #a78bfa;
+    color: #c8a951;
 }
 
 .loading-state {

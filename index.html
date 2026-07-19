@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MochiBOT - 艦隊營運控制台</title>
+    <title>貓鬚草Whiskerleaf-艦隊歷史收益</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&display=swap" rel="stylesheet">
@@ -20,33 +20,12 @@
         <header class="glass-panel header">
             <div class="logo">
                 <i class="fa-solid fa-ship"></i>
-                <h1>MochiBOT Fleet Intelligence</h1>
-            </div>
-            <div class="nav-tabs">
-                <button class="tab-btn active" data-tab="status-tab"><i class="fa-solid fa-satellite-dish"></i> 即時狀態</button>
-                <button class="tab-btn" data-tab="history-tab"><i class="fa-solid fa-clock-rotate-left"></i> 歷史收益</button>
+                <h1>貓鬚草Whiskerleaf-艦隊歷史收益</h1>
             </div>
         </header>
 
         <main class="content-area">
-            <!-- 即時狀態面板 -->
-            <section id="status-tab" class="tab-content active">
-                <div class="section-header">
-                    <h2><i class="fa-solid fa-circle-notch fa-spin"></i> 艦隊即時動態</h2>
-                    <button class="refresh-btn" id="refresh-status"><i class="fa-solid fa-rotate-right"></i></button>
-                </div>
-                
-                <div class="fleet-grid" id="fleet-grid">
-                    <!-- 卡片將由 JS 動態生成 -->
-                    <div class="loading-state">
-                        <div class="spinner"></div>
-                        <p>同步衛星訊號中...</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- 歷史收益面板 -->
-            <section id="history-tab" class="tab-content">
+            <section id="history-tab" class="tab-content active">
                 <div class="section-header">
                     <h2><i class="fa-solid fa-box-open"></i> 近期打撈收益紀錄</h2>
                     <div class="controls">
