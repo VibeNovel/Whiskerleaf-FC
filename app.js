@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Fetch Data ---
     async function fetchData() {
         const tbody = document.getElementById('history-tbody');
-        tbody.innerHTML = `<tr><td colspan="4" class="loading-state"><div class="spinner"></div><p>載入航海日誌中...</p></td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="4"><div class="loading-state"><div class="spinner"></div><p>載入航海日誌中...</p></div></td></tr>`;
         
         try {
             // 加入 timestamp 防止 GitHub 快取
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             filterHistory();
             
         } catch (err) {
-            tbody.innerHTML = `<tr><td colspan="4" class="loading-state" style="color: #ef4444;"><i class="fa-solid fa-triangle-exclamation fa-2x"></i><p>無法讀取艦隊資料</p></td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4"><div class="loading-state" style="color: #ef4444;"><i class="fa-solid fa-triangle-exclamation fa-2x"></i><p>無法讀取艦隊資料</p></div></td></tr>`;
             console.error(err);
         }
     }
