@@ -106,13 +106,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     const breakdown = JSON.parse(row.itemBreakdown);
                     itemsHtml = '';
                     breakdown.forEach(b => {
-                        const sourceText = b.source === 'market' ? 'Universalis (市場均價)' : (b.source === 'npc' ? 'NPC 商店賣價' : '無法販售');
-                        const priceText = b.unitPrice > 0 ? `💰 ${b.unitPrice.toLocaleString()}` : '無法販售';
+                        const itemName = b.name || b.Name;
+                        const itemSource = b.source || b.Source;
+                        const itemPrice = b.unitPrice !== undefined ? b.unitPrice : b.UnitPrice;
+                        const sourceText = itemSource === 'market' ? 'Universalis (市場均價)' : (itemSource === 'npc' ? 'NPC 商店賣價' : '無法販售');
+                        const priceText = itemPrice > 0 ? `💰 ${itemPrice.toLocaleString()}` : '無法販售';
                         itemsHtml += `
                             <div class="item-container">
-                                ${b.name}
+                                ${itemName}
                                 <div class="item-tooltip">
-                                    <div class="tooltip-title">${b.name}</div>
+                                    <div class="tooltip-title">${itemName}</div>
                                     <div class="tooltip-price">單價: <span>${priceText}</span></div>
                                     <div class="tooltip-source">來源: ${sourceText}</div>
                                 </div>
@@ -126,12 +129,11 @@ document.addEventListener('DOMContentLoaded', () => {
             // Format Estimated Value
             let estValueHtml = '<span class="no-sell" style="color: var(--text-secondary);">無資料</span>';
             if (row.estimatedValue !== undefined && row.estimatedValue !== null) {
-                if (row.estimatedValue === -1) {
-                    estValueHtml = '<span class="no-sell" style="color: var(--warning-color);">無法販售</span>';
-                } else if (row.estimatedValue === 0) {
+                const val = row.estimatedValue === -1 ? 0 : row.estimatedValue;
+                if (val === 0) {
                     estValueHtml = '<span style="color: var(--text-secondary);">💰 0</span>';
                 } else {
-                    estValueHtml = `<span style="color: var(--accent-color); font-weight: 600;">💰 ${row.estimatedValue.toLocaleString()}</span>`;
+                    estValueHtml = `<span style="color: var(--accent-color); font-weight: 600;">💰 ${val.toLocaleString()}</span>`;
                 }
             }
 
