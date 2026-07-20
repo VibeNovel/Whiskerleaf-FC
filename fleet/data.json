@@ -121,8 +121,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u7D05\u5BF6\u77F3 x30, \u85CD\u5BF6\u77F3 x30, \u767D\u91D1\u9320x22",
-      "estimatedValue": 968,
-      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u7D05\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:30,\u0022unitPrice\u0022:5,\u0022source\u0022:\u0022market\u0022},{\u0022name\u0022:\u0022\\u85CD\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:30,\u0022unitPrice\u0022:6,\u0022source\u0022:\u0022market\u0022},{\u0022name\u0022:\u0022\\u767D\\u91D1\\u9320\u0022,\u0022quantity\u0022:22,\u0022unitPrice\u0022:29,\u0022source\u0022:\u0022market\u0022}]",
+      "estimatedValue": 1846,
+      "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u91D1\u9320\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 28, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-20T09:12:09.2710188+08:00"
     },
     {
@@ -132,8 +132,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u7D05\u5BF6\u77F3 x55, \u6C89\u8239\u624B\u9432x5, \u661F\u85CD\u77F3 x27",
-      "estimatedValue": 572,
-      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u7D05\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:55,\u0022unitPrice\u0022:5,\u0022source\u0022:\u0022market\u0022},{\u0022name\u0022:\u0022\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022},{\u0022name\u0022:\u0022\\u661F\\u85CD\\u77F3\u0022,\u0022quantity\u0022:27,\u0022unitPrice\u0022:11,\u0022source\u0022:\u0022market\u0022}]",
+      "estimatedValue": 45653,
+      "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 55, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u624B\u9432\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 9000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u661F\u85CD\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 14, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-20T09:11:15.4693509+08:00"
     },
     {
@@ -143,8 +143,8 @@
       "fleetType": "SUBMERSIBLE",
       "route": "O\u3000\u63A2\u7D22\u865F\u6B98\u9AB8 \u2192 J\u3000\u7121\u540D\u6C89\u8239",
       "items": "\u7D05\u5BF6\u77F3x27,\u85CD\u5BF6\u77F3x30,\u6C89\u8239\u8033\u98FEx5,\u7DA0\u5BF6\u77F3x29",
-      "estimatedValue": 344,
-      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u7D05\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:27,\u0022unitPrice\u0022:5,\u0022source\u0022:\u0022market\u0022},{\u0022name\u0022:\u0022\\u85CD\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:30,\u0022unitPrice\u0022:6,\u0022source\u0022:\u0022market\u0022},{\u0022name\u0022:\u0022\\u6C89\\u8239\\u8033\\u98FE\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022},{\u0022name\u0022:\u0022\\u7DA0\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:29,\u0022unitPrice\u0022:1,\u0022source\u0022:\u0022market\u0022}]",
+      "estimatedValue": 51244,
+      "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 10000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-20T09:10:08.3854505+08:00"
     },
     {
@@ -154,8 +154,8 @@
       "fleetType": "AIRSHIP",
       "route": "\u96F2\u6D7706 \u2192 \u96F2\u6D7713",
       "items": "\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349x2, \u934A\u91D1\u6A39\u8102x4",
-      "estimatedValue": 786666,
-      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u5FB7\\u62C9\\u74E6\\u5C3C\\u4E9E\\u6D6E\\u8349\u0022,\u0022quantity\u0022:2,\u0022unitPrice\u0022:393333,\u0022source\u0022:\u0022market\u0022},{\u0022name\u0022:\u0022\\u934A\\u91D1\\u6A39\\u8102\u0022,\u0022quantity\u0022:4,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022}]",
+      "estimatedValue": 753408,
+      "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u934A\u91D1\u6A39\u8102\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-07-19T18:39:39.5925424+08:00"
     },
     {
@@ -3646,5 +3646,5 @@
       "createdAt": "2026-03-18T18:54:49.141+08:00"
     }
   ],
-  "lastUpdated": "2026-07-20T03:06:08Z"
+  "lastUpdated": "2026-07-20T03:26:41Z"
 }
