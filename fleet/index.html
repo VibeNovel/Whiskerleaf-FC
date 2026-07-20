@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>貓鬚草Whiskerleaf-艦隊探索日誌</title>
+    <link rel="stylesheet" href="style.css?v=2">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚢</text></svg>">
+</head>
+<body>
+
+
+    <div class="container">
+        <header class="glass-panel header">
+            <div class="logo">
+                <i class="fa-solid fa-ship"></i>
+                <h1>貓鬚草Whiskerleaf</h1>
+            </div>
+        </header>
+
+        <main class="content-area">
+            <section id="history-tab" class="tab-content active">
+                <div class="section-header">
+                    <h2><i class="fa-solid fa-box-open"></i> 艦隊探索日誌</h2>
+                    <div class="controls">
+                        <div class="search-box glass-panel">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" id="search-history" placeholder="搜尋船名、航線或掉落物...">
+                        </div>
+                        <button class="refresh-btn" id="refresh-history"><i class="fa-solid fa-rotate-right"></i></button>
+                    </div>
+                </div>
+
+                <div class="table-container glass-panel">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 15%">時間</th>
+                                <th style="width: 15%">艦隊名稱</th>
+                                <th style="width: 25%">航線</th>
+                                <th style="width: 30%">獲得物品</th>
+                                <th style="width: 15%">預估收益</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-tbody">
+                            <tr>
+                                <td colspan="5">
+                                    <div class="loading-state">
+                                        <div class="spinner"></div>
+                                        <p>載入探索日誌中...</p>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pagination" id="pagination">
+                    <!-- 分頁將由 JS 生成 -->
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>Whiskerleaf &copy; 2026. Powered by .NET 10 & Glassmorphism.</p>
+        </footer>
+    </div>
+
+    <script src="app.js?v=2"></script>
+</body>
+</html>

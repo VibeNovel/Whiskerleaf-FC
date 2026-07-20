@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>貓鬚草Whiskerleaf-公會特效紀錄</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>">
+</head>
+<body>
+
+
+    <div class="container">
+        <header class="glass-panel header">
+            <div class="logo">
+                <i class="fa-solid fa-wand-magic-sparkles"></i>
+                <h1>貓鬚草Whiskerleaf</h1>
+            </div>
+        </header>
+
+        <main class="content-area">
+            <section id="history-tab" class="tab-content active">
+                <div class="section-header">
+                    <h2><i class="fa-solid fa-list"></i> 特效開啟紀錄</h2>
+                    <div class="controls">
+                        <div class="search-box glass-panel">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" id="search-history" placeholder="搜尋特效或啟用者...">
+                        </div>
+                        <button class="refresh-btn" id="refresh-history"><i class="fa-solid fa-rotate-right"></i></button>
+                    </div>
+                </div>
+                
+                <p class="last-updated-text" id="lastUpdated" style="margin-bottom: 15px; color: var(--text-secondary); font-size: 0.9em; text-align: right;">最後更新時間: 載入中...</p>
+
+                <div class="table-container glass-panel">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 25%">時間</th>
+                                <th style="width: 25%">特效 A</th>
+                                <th style="width: 25%">特效 B</th>
+                                <th style="width: 25%">啟用者</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-tbody">
+                            <tr>
+                                <td colspan="4">
+                                    <div class="loading-state">
+                                        <div class="spinner"></div>
+                                        <p>載入特效紀錄中...</p>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pagination" id="pagination">
+                    <!-- 分頁將由 JS 生成 -->
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>Whiskerleaf &copy; 2026. Powered by .NET 10 & Glassmorphism.</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
