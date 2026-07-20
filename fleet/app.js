@@ -53,6 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // 處理歷史資料
             allHistory = data.history || [];
+            allHistory.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
             filterHistory();
             
         } catch (err) {

@@ -26,14 +26,18 @@ async function fetchData() {
 }
 
 function renderData(data) {
-    // 更新最後更新時間
-    const updatedDate = new Date(data.lastUpdated);
-    document.getElementById('lastUpdated').textContent = `最後更新時間: ${updatedDate.toLocaleString('zh-TW')}`;
+
 
     const tbody = document.getElementById('history-tbody');
     tbody.innerHTML = ''; // 清空原本的載入文字
 
     const filteredHistory = data.history || [];
+    filteredHistory.sort((a, b) => {
+        // If Time (timestamp) exists, sort by it. Otherwise fallback to date string.
+        const timeA = a.Time ? new Date(a.Time) : new Date(a.date);
+        const timeB = b.Time ? new Date(b.Time) : new Date(b.date);
+        return timeB - timeA;
+    });
     if (filteredHistory.length === 0) {
         tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">目前尚無特效開啟紀錄</td></tr>`;
         return;
