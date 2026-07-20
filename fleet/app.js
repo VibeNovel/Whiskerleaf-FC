@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${formatRoute(row.route)}</td>
                 <td class="item-list">${itemsHtml}</td>
                 <td>${estValueHtml}</td>
-                <td style="color: var(--text-secondary); font-size: 0.9em;"><i class="fa-solid fa-user" style="opacity: 0.7; margin-right: 4px;"></i>${row.recordedBy || '搗蛋麻糬'}</td>
+                <td><i class="fa-solid fa-user-check" style="color: var(--ffxiv-gold); margin-right: 5px;"></i> ${row.recordedBy || '搗蛋麻糬'}</td>
             `;
             tbody.appendChild(tr);
         });
