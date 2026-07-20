@@ -19,10 +19,7 @@ async function fetchData() {
         console.error('取得資料失敗:', error);
         document.getElementById('history-tbody').innerHTML = `
             <tr>
-                <td colspan="4" class="loading-state">
-                    <i class="fa-solid fa-inbox" style="font-size: 2rem; margin-bottom: 0.5rem; opacity: 0.5;"></i>
-                    目前尚無特效開啟紀錄
-                </td>
+                <td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">目前尚無特效開啟紀錄</td>
             </tr>
         `;
     }
@@ -36,17 +33,14 @@ function renderData(data) {
     const tbody = document.getElementById('history-tbody');
     tbody.innerHTML = ''; // 清空原本的載入文字
 
-    if (!data.history || data.history.length === 0) {
-        tbody.innerHTML = `
-            <tr>
-                <td colspan="4" class="loading-state">目前尚無歷史紀錄</td>
-            </tr>
-        `;
+    const filteredHistory = data.history || [];
+    if (filteredHistory.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 2rem; color: var(--text-secondary);">目前尚無特效開啟紀錄</td></tr>`;
         return;
     }
 
     // 渲染每一筆紀錄
-    data.history.forEach(record => {
+    filteredHistory.forEach(record => {
         const tr = document.createElement('tr');
         
         // 處理時間格式
