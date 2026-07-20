@@ -124,7 +124,7 @@
       "estimatedValue": 1846,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u91D1\u9320\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 28, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-20T09:12:09.2710188+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "06109624-e2e9-41ea-94ee-6d06570ab5dd",
@@ -136,7 +136,7 @@
       "estimatedValue": 45653,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 55, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u624B\u9432\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 9000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u661F\u85CD\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 14, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-20T09:11:15.4693509+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "1069c9c5-477a-499f-88c8-290d2239b18b",
@@ -148,7 +148,7 @@
       "estimatedValue": 51244,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 10000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-20T09:10:08.3854505+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "1bf2595d-12ac-45ec-ba83-bbcb8d4af7c9",
@@ -160,7 +160,7 @@
       "estimatedValue": 753408,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u934A\u91D1\u6A39\u8102\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-07-19T18:39:39.5925424+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmriji2sr009n8b3w1slf09d3",
@@ -172,7 +172,7 @@
       "estimatedValue": 150732,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4E0A\u7B49\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 30000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u767D\u91D1\u9320\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 28, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-13T09:24:40.492+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrijgqts009l8b3wuyfbwsou",
@@ -184,7 +184,7 @@
       "estimatedValue": 40918,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u661F\u7D05\u77F3\u0022, \u0022Quantity\u0022: 54, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u6212\u6307\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 8000, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-07-13T09:23:38.32+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrijflx9009j8b3w0csc3e1t",
@@ -196,7 +196,7 @@
       "estimatedValue": 1209,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-13T09:22:45.309+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrijeomb009h8b3wb9ol6zbz",
@@ -208,7 +208,7 @@
       "estimatedValue": 5624,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 72, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-13T09:22:02.147+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrh4ojur006g8b3wixtvqjtl",
@@ -220,7 +220,7 @@
       "estimatedValue": 52644,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C89\u8239\u9805\u934A\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 13000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u947D\u77F3\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u91D1\u9320\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 28, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-12T09:42:02.115+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrh4nr6e006e8b3wioxmsev0",
@@ -232,7 +232,7 @@
       "estimatedValue": 295342,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4E0A\u7B49\u6C89\u8239\u624B\u9432\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 28500, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u661F\u7D05\u77F3\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9EC3\u91D1\u9320\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 100, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4E0A\u7B49\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 30000, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-07-12T09:41:24.95+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrgeuszm005v8b3w7aezkf1e",
@@ -244,7 +244,7 @@
       "estimatedValue": 1056,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-11T21:39:03.874+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrgeubem005t8b3wk374bzph",
@@ -256,7 +256,7 @@
       "estimatedValue": 261,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-07-11T21:38:41.086+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrfoqrbu005q8b3weftxv37h",
@@ -268,7 +268,7 @@
       "estimatedValue": 106080,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 10000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u9805\u934A\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 13000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u85CD\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-11T09:28:05.083+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrfopp5q005o8b3wnn5vpr5j",
@@ -280,7 +280,7 @@
       "estimatedValue": 56060,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u947D\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u6212\u6307\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 8000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 10000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-11T09:27:15.614+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmre9lu5y000j8b3wzw9ozekc",
@@ -292,7 +292,7 @@
       "estimatedValue": 3900,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u7926\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 50, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-10T09:36:35.062+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmre9lcrt000h8b3wqlzqurm4",
@@ -304,7 +304,7 @@
       "estimatedValue": 3540,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u7926\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 50, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-10T09:36:12.522+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmre9kopr000f8b3wttu14sa9",
@@ -316,7 +316,7 @@
       "estimatedValue": 1599,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-10T09:35:41.343+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrdjepbk00byewlypitc3ktl",
@@ -328,7 +328,7 @@
       "estimatedValue": 65584,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C89\u8239\u8033\u98FE\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 10000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C89\u8239\u624B\u9432\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 9000, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u661F\u7D05\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-09T21:23:12.173+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrbzykpm00arewlykzdb4aqn",
@@ -340,7 +340,7 @@
       "estimatedValue": 3900,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u7926\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 50, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-08T19:31:00.826+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrbzybjn00apewlyd55pa808",
@@ -352,7 +352,7 @@
       "estimatedValue": 3937,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u6C99\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 53, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-08T19:30:48.947+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrbzx4w800anewly43lkri51",
@@ -364,7 +364,7 @@
       "estimatedValue": 3200,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-08T19:29:53.672+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmrbzwsid00alewlybuzoz50e",
@@ -376,7 +376,7 @@
       "estimatedValue": 1997,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-08T19:29:37.621+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr9xxadr008gewlyiwz5fm84",
@@ -388,7 +388,7 @@
       "estimatedValue": 590,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-07T08:58:29.199+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr9xwj2p008eewlym8f4ln28",
@@ -400,7 +400,7 @@
       "estimatedValue": 2832,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-07T08:57:53.809+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr9xvtcd008cewlygcoj0edt",
@@ -412,7 +412,7 @@
       "estimatedValue": 1566,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u7926\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 50, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-07T08:57:20.461+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr9xv1as008aewlyl93tasle",
@@ -424,7 +424,7 @@
       "estimatedValue": 385461,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-07T08:56:44.116+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr7ingbw007vewly5gp4dkqr",
@@ -436,7 +436,7 @@
       "estimatedValue": 4000,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-05T16:15:23.756+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr7in72y007tewlyrsltpgyt",
@@ -448,7 +448,7 @@
       "estimatedValue": 1096,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-05T16:15:11.77+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr7imufu007rewlyuys79v9c",
@@ -460,7 +460,7 @@
       "estimatedValue": 1168,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-05T16:14:55.386+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr7im3gt007pewlysetaarx7",
@@ -472,7 +472,7 @@
       "estimatedValue": 22030,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 72, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9B54\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 2933, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-05T16:14:20.427+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr4ywjq20061ewlyfde1da5v",
@@ -484,7 +484,7 @@
       "estimatedValue": 1822,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u6C99\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 53, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-03T21:27:03.387+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr4yvtqo005zewly48vs4hoa",
@@ -496,7 +496,7 @@
       "estimatedValue": 3620,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u7926\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 50, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-03T21:26:29.712+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr4yv51p005xewlyghuq4f3l",
@@ -508,7 +508,7 @@
       "estimatedValue": 2299,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-03T21:25:57.71+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr4yu6b0005vewlynohi2leh",
@@ -520,7 +520,7 @@
       "estimatedValue": 1011,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-07-03T21:25:12.684+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr2tpx5h0057ewlycvuvabre",
@@ -532,7 +532,7 @@
       "estimatedValue": 1328,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C99\u67DA\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 48, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-02T09:26:23.765+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr2tpi790055ewlygpvghr3c",
@@ -544,7 +544,7 @@
       "estimatedValue": 460,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-02T09:26:04.389+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr2tp1me0053ewlyfcc9lt17",
@@ -556,7 +556,7 @@
       "estimatedValue": 1616,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9226\u9285\u7926\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 50, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-02T09:25:42.902+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr2to3o40051ewlyj7na94rw",
@@ -568,7 +568,7 @@
       "estimatedValue": 1477,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u963F\u723E\u57FA\u514B\u85B0\u8863\u8349\u7A2E\u5B50\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 216, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-07-02T09:24:58.9+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr0n7qwr0045ewly7ultsd13",
@@ -580,7 +580,7 @@
       "estimatedValue": 3840,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 48, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-30T20:48:45.819+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr0n7eas0043ewlyswdoylui",
@@ -592,7 +592,7 @@
       "estimatedValue": 2513,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-30T20:48:29.476+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr0n724k0041ewly31ofkmvk",
@@ -604,7 +604,7 @@
       "estimatedValue": 2376,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u91D1\u6C99\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 33, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-30T20:48:13.7+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmr0n112t003zewly6jee3aoz",
@@ -616,7 +616,7 @@
       "estimatedValue": 2190,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 75, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-30T20:43:32.406+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqyjsezm003newly875ewi0e",
@@ -628,7 +628,7 @@
       "estimatedValue": 176,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-29T09:37:19.331+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqyjs67o003lewlyrijhzopa",
@@ -640,7 +640,7 @@
       "estimatedValue": 2284,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-29T09:37:07.956+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqyjqc01003jewly8efj59lb",
@@ -652,7 +652,7 @@
       "estimatedValue": 1330,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u91D1\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 11, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-29T09:35:42.145+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqyjp6pe003hewlydrj7je9m",
@@ -664,7 +664,7 @@
       "estimatedValue": 11960,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7121\u5C6C\u6027\u6C34\u6676\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 173, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-29T09:34:48.627+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqx94pti002hewlywpfgmfm5",
@@ -676,7 +676,7 @@
       "estimatedValue": 240,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-28T11:51:11.286+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqwd97i50025ewly885ptdn3",
@@ -688,7 +688,7 @@
       "estimatedValue": 1749,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C99\u67DA\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 48, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u91D1\u6C99\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 33, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-27T20:58:53.118+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqwd8kba0023ewly039zajk0",
@@ -700,7 +700,7 @@
       "estimatedValue": 2051,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-27T20:58:23.063+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqwd78x60021ewlys3emutfc",
@@ -712,7 +712,7 @@
       "estimatedValue": 10381,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u963F\u723E\u57FA\u514B\u85B0\u8863\u8349\u7A2E\u5B50\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 216, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-27T20:57:21.642+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqvr24y8001vewly8lkzzwey",
@@ -724,7 +724,7 @@
       "estimatedValue": 2000,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-27T10:37:31.664+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqu9bxlc0016ewlysopqwq4p",
@@ -736,7 +736,7 @@
       "estimatedValue": 1110,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-26T09:33:29.424+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqu9bhor0014ewlyv9lu4jgn",
@@ -748,7 +748,7 @@
       "estimatedValue": 168,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-26T09:33:08.811+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqu9b8ut0012ewlyz1lpj6m1",
@@ -760,7 +760,7 @@
       "estimatedValue": 312,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4ED9\u679C\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-26T09:32:57.366+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqu9ajhr0010ewlytfm1lz4g",
@@ -772,7 +772,7 @@
       "estimatedValue": 378051,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 110, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-26T09:32:24.495+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqsu035t000newlyz5jhzt3t",
@@ -784,7 +784,7 @@
       "estimatedValue": 2000,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7652\u7621\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-25T09:36:36.353+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqsam15q000kewlyg8bio5cq",
@@ -796,7 +796,7 @@
       "estimatedValue": 1104,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C99\u67DA\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 48, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-25T00:33:47.87+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqsalooc000iewlys2wararo",
@@ -808,7 +808,7 @@
       "estimatedValue": 1725,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-25T00:33:31.693+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqrxqcgg000dewly7motddum",
@@ -820,7 +820,7 @@
       "estimatedValue": 1555,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 71, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-24T18:33:14.128+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqrd0bqw0003ewlyw7ddl8wp",
@@ -832,7 +832,7 @@
       "estimatedValue": 184,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-24T08:53:07.832+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqqrxvsi007gdpyc1e1i0az3",
@@ -844,7 +844,7 @@
       "estimatedValue": 1110,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-23T23:03:21.906+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqqrxgls007edpyc9gx6idvk",
@@ -856,7 +856,7 @@
       "estimatedValue": 1875,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-23T23:03:02.224+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqpxd7jk006jdpycby59lyii",
@@ -868,7 +868,7 @@
       "estimatedValue": 1225,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9B54\u9280\u6C99\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-23T08:47:28.881+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqpxcig9006hdpycpw6cv5qr",
@@ -880,7 +880,7 @@
       "estimatedValue": 377679,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 41, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-23T08:46:56.362+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqpbtoys006fdpyczo8y03yl",
@@ -892,7 +892,7 @@
       "estimatedValue": 1176,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6697\u9280\u7926\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-22T22:44:26.405+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqpbth78006ddpyckp9u1o9k",
@@ -904,7 +904,7 @@
       "estimatedValue": 1029,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6697\u9280\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-22T22:44:16.34+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqoj9yhg0063dpycs2tam96s",
@@ -916,7 +916,7 @@
       "estimatedValue": 1113,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9226\u9285\u6C99\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 53, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-22T09:25:16.372+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqnvcptr0060dpycl7fuhnlh",
@@ -928,7 +928,7 @@
       "estimatedValue": 3508,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9226\u9285\u6C99\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 53, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u9280\u6C99\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 102, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-21T22:15:34.336+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqnvc309005ydpycs26v7xms",
@@ -940,7 +940,7 @@
       "estimatedValue": 1897,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9B54\u9280\u6C99\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-21T22:15:04.761+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqnvb2d1005wdpyc72tniv2l",
@@ -952,7 +952,7 @@
       "estimatedValue": 20442,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u963F\u723E\u57FA\u514B\u85B0\u8863\u8349\u7A2E\u5B50\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 216, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-21T22:14:17.269+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqn3vbcm005idpycvuvfi3ja",
@@ -964,7 +964,7 @@
       "estimatedValue": 768,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9748\u9752\u5CA9\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 32, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-21T09:26:12.79+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqloqz7e0051dpyccv3d10a0",
@@ -976,7 +976,7 @@
       "estimatedValue": 693,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u91D1\u6C99\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 33, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-20T09:35:10.01+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqloqrsg004zdpyc8248qito",
@@ -988,7 +988,7 @@
       "estimatedValue": 792,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u91D1\u6C99\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 33, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-20T09:35:00.401+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqloqkqz004xdpycwoo2vns1",
@@ -1000,7 +1000,7 @@
       "estimatedValue": 693,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u91D1\u6C99\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 33, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-20T09:34:51.275+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqloq1cz004vdpycy1rgdb0z",
@@ -1012,7 +1012,7 @@
       "estimatedValue": 2830,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 130, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-20T09:34:26.147+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqk98gxu004ldpyc4d2gdvrp",
@@ -1024,7 +1024,7 @@
       "estimatedValue": 1500,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-19T09:33:06.115+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqk97krq004jdpycw8px3qyv",
@@ -1036,7 +1036,7 @@
       "estimatedValue": 1800,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-19T09:32:24.422+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqk97d9t004hdpycmdie0wb9",
@@ -1048,7 +1048,7 @@
       "estimatedValue": 1575,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u68A3\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 75, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-19T09:32:14.705+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqji674b004adpyc6z5qyvyk",
@@ -1060,7 +1060,7 @@
       "estimatedValue": 6366,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-06-18T20:55:30.443+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqitmijq003ddpycmad0i8is",
@@ -1072,7 +1072,7 @@
       "estimatedValue": 1060,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9226\u9285\u6C99\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 53, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-18T09:28:21.351+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqitm87r003bdpycw1h1n6jc",
@@ -1084,7 +1084,7 @@
       "estimatedValue": 1060,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9226\u9285\u6C99\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 53, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-18T09:28:07.959+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqitlqkg0039dpycyw9x4a1z",
@@ -1096,7 +1096,7 @@
       "estimatedValue": 2346,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6697\u9280\u6C99\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 102, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-18T09:27:45.088+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqhegsnv002zdpycw4nfl5zl",
@@ -1108,7 +1108,7 @@
       "estimatedValue": 160,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-17T09:36:14.107+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqhegjaj002xdpyc2ojldq5g",
@@ -1120,7 +1120,7 @@
       "estimatedValue": 200,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-17T09:36:01.964+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqheg813002vdpyctraft154",
@@ -1132,7 +1132,7 @@
       "estimatedValue": 160,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-17T09:35:47.367+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqhefrs4002tdpyczqou5lyf",
@@ -1144,7 +1144,7 @@
       "estimatedValue": 6291,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 115, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-17T09:35:26.308+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqfys52j002idpyck4z4muzu",
@@ -1156,7 +1156,7 @@
       "estimatedValue": 2100,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9EC3\u660E\u792C\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 84, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-16T09:29:23.371+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqfyrwq4002gdpycqvgvgc2u",
@@ -1168,7 +1168,7 @@
       "estimatedValue": 2100,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9EC3\u660E\u792C\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 84, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-16T09:29:12.556+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqfyrn01002edpyc0clsioa5",
@@ -1180,7 +1180,7 @@
       "estimatedValue": 1764,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9EC3\u660E\u792C\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 84, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-16T09:28:59.953+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqej5s660024dpycwl1f871e",
@@ -1192,7 +1192,7 @@
       "estimatedValue": 176,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-15T09:24:19.806+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqej5f1e0022dpyc3kv7emth",
@@ -1204,7 +1204,7 @@
       "estimatedValue": 1241,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u880D\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-15T09:24:02.786+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqej4vlq0020dpycez39q6s9",
@@ -1216,7 +1216,7 @@
       "estimatedValue": 1127,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-15T09:23:37.599+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqej3wat001ydpycc65csjdp",
@@ -1228,7 +1228,7 @@
       "estimatedValue": 378122,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-15T09:22:51.843+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqbql5vj001ldpycwny6d8df",
@@ -1240,7 +1240,7 @@
       "estimatedValue": 1110,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-13T10:28:56.192+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqbqknrq001jdpyc4gs971gm",
@@ -1252,7 +1252,7 @@
       "estimatedValue": 245,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-13T10:28:32.726+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqbqk3z7001hdpycezi4c2sc",
@@ -1264,7 +1264,7 @@
       "estimatedValue": 176,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-13T10:28:07.075+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqbnlsyr000kdpyca0dgygqz",
@@ -1276,7 +1276,7 @@
       "estimatedValue": 1016,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-13T09:05:27.267+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqaf9oy1000edpyc41188xwm",
@@ -1288,7 +1288,7 @@
       "estimatedValue": 302,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-12T12:24:19.082+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqaf7t0f000cdpycssxabeds",
@@ -1300,7 +1300,7 @@
       "estimatedValue": 389,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 47, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-12T12:22:51.04+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmqaf7jtp0009dpycv9kvb3m1",
@@ -1312,7 +1312,7 @@
       "estimatedValue": 245,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u880D\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 13, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-12T12:22:39.133+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq9n0c5a004i7idyxospcuaa",
@@ -1324,7 +1324,7 @@
       "estimatedValue": 16960,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-11T23:13:13.342+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq897m5f00417idygn1k5x5h",
@@ -1336,7 +1336,7 @@
       "estimatedValue": 476,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 68, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-10T23:59:12.099+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq896yzl003z7idyg986s2qv",
@@ -1348,7 +1348,7 @@
       "estimatedValue": 360,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-10T23:58:42.081+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq896q6z003x7idyk6oqw01d",
@@ -1360,7 +1360,7 @@
       "estimatedValue": 289,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-10T23:58:30.684+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq7egvv0003j7idy8wvhnkda",
@@ -1372,7 +1372,7 @@
       "estimatedValue": 12068,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7121\u5C6C\u6027\u6C34\u6676\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 173, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u963F\u723E\u57FA\u514B\u85B0\u8863\u8349\u7A2E\u5B50\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 216, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-10T09:38:36.492+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq6fvl8f00357idywkae8i3g",
@@ -1384,7 +1384,7 @@
       "estimatedValue": 384,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 48, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-09T17:30:15.999+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq6fvahr00337idy1q58dwln",
@@ -1396,7 +1396,7 @@
       "estimatedValue": 350,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-09T17:30:02.08+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq6fv0gr00317idyi0gyqkcy",
@@ -1408,7 +1408,7 @@
       "estimatedValue": 1215,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-09T17:29:49.083+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq5e4yi2002w7idyg4m06ol5",
@@ -1420,7 +1420,7 @@
       "estimatedValue": 972,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 41, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-06-08T23:53:47.69+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq4idyim002h7idymc6sazva",
@@ -1432,7 +1432,7 @@
       "estimatedValue": 476,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 68, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-08T09:04:59.903+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq4idnoy002f7idywirj2jiz",
@@ -1444,7 +1444,7 @@
       "estimatedValue": 1215,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-08T09:04:45.875+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq4i8e0o002d7idyrps16w68",
@@ -1456,7 +1456,7 @@
       "estimatedValue": 1145,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u69A7\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 111, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-08T09:00:40.056+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq33vvhr00197idyasq1ullz",
@@ -1468,7 +1468,7 @@
       "estimatedValue": 376746,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-06-07T09:31:15.375+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq2cki34000x7idyzhmkmgqo",
@@ -1480,7 +1480,7 @@
       "estimatedValue": 203,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-06T20:46:35.153+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq2ck15l000v7idybp31yv1r",
@@ -1492,7 +1492,7 @@
       "estimatedValue": 254,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-06T20:46:13.21+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq2cjixh000t7idy8z9llloo",
@@ -1504,7 +1504,7 @@
       "estimatedValue": 252,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 31, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-06T20:45:49.59+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq0wioim00021mgpf18awkau",
@@ -1516,7 +1516,7 @@
       "estimatedValue": 797,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-06-05T20:29:30.142+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq089pgc000a12xthmr5gl4e",
@@ -1528,7 +1528,7 @@
       "estimatedValue": 112,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-05T09:10:40.668+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq0899zh000812xt8fntcars",
@@ -1540,7 +1540,7 @@
       "estimatedValue": 776,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-05T09:10:20.622+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmq088mvv000612xtbi6pbp5g",
@@ -1552,7 +1552,7 @@
       "estimatedValue": 501,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u91D1\u7926\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 11, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-05T09:09:50.683+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpyssbjd00dxgexfqdtv23s6",
@@ -1564,7 +1564,7 @@
       "estimatedValue": 763022,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-04T09:09:29.065+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpxwl63z00dqgexf0d5vp1oj",
@@ -1576,7 +1576,7 @@
       "estimatedValue": 214,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-03T18:08:07.727+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpxwkls000dogexfnu2ssdcv",
@@ -1588,7 +1588,7 @@
       "estimatedValue": 458,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u91D1\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 11, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-03T18:07:41.376+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpxwk14h00dmgexf0r7s77mw",
@@ -1600,7 +1600,7 @@
       "estimatedValue": 120,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-03T18:07:14.61+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpwshk7j00dagexfqhrk2fbd",
@@ -1612,7 +1612,7 @@
       "estimatedValue": 9042,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-02T23:25:34.735+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpvxm6tv00cfgexfhztyg9oa",
@@ -1624,7 +1624,7 @@
       "estimatedValue": 210,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-02T09:01:22.579+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpvxlnab00cdgexfprx1essf",
@@ -1636,7 +1636,7 @@
       "estimatedValue": 112,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-02T09:00:57.251+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpvxl4nk00cbgexf9ofupc3v",
@@ -1648,7 +1648,7 @@
       "estimatedValue": 155,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-02T09:00:33.104+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpujhaix00bygexf3bpkhb9e",
@@ -1660,7 +1660,7 @@
       "estimatedValue": 844,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-06-01T09:37:53.29+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpt9f7fc00blgexf5800egkb",
@@ -1672,7 +1672,7 @@
       "estimatedValue": 85,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-31T12:08:33.625+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpt9epzm00bjgexfrtgz7tvi",
@@ -1684,7 +1684,7 @@
       "estimatedValue": 299,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9ED1\u880D\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 35, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u91D1\u7926\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 11, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-31T12:08:11.027+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpt9e5sd00bhgexf73voq7af",
@@ -1696,7 +1696,7 @@
       "estimatedValue": 1288,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u91D1\u6C99\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 33, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 31, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-31T12:07:44.846+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpshv97k00b6gexfzwh6l7ot",
@@ -1708,7 +1708,7 @@
       "estimatedValue": 8060,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-05-30T23:17:13.184+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpqzokv400amgexfv5hnplj1",
@@ -1720,7 +1720,7 @@
       "estimatedValue": 3236,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u9280\u584A\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 203, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u786C\u6CE5\u5CA9\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 2, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-29T22:00:22.432+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpqy536o00afgexflmn957rd",
@@ -1732,7 +1732,7 @@
       "estimatedValue": 21768,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u5C71\u6BDB\u6AF8\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 82, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-29T21:17:13.44+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpqy4adp00adgexfs0jphrtn",
@@ -1744,7 +1744,7 @@
       "estimatedValue": 22916,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u9226\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 148, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-29T21:16:36.109+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpq8idws009ygexf5ihvlseh",
@@ -1756,7 +1756,7 @@
       "estimatedValue": 15655,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 78, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9B54\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 2933, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-29T09:19:43.853+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpotbpxn008cgexfy7io3yxb",
@@ -1768,7 +1768,7 @@
       "estimatedValue": 5772,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u91D1\u9320\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 219, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u93A2\u9435\u7926\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-28T09:26:52.427+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpotaq5t008agexfhneg0jvp",
@@ -1780,7 +1780,7 @@
       "estimatedValue": 19710,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u91D1\u9320\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 28, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-28T09:26:06.065+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpot8dm60088gexfm28l2qrf",
@@ -1792,7 +1792,7 @@
       "estimatedValue": 5808,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9280\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 117, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-28T09:24:16.494+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpo3mslt0084gexf5ht0i7qn",
@@ -1804,7 +1804,7 @@
       "estimatedValue": 753332,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-05-27T21:27:39.089+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpmkkfyq007kgexfei3hylk1",
@@ -1816,7 +1816,7 @@
       "estimatedValue": 2191,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u706B\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96EA\u677E\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u73BB\u7483\u677F\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 24, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-26T19:46:10.514+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpmkjoyu007igexfe8ix6knt",
@@ -1828,7 +1828,7 @@
       "estimatedValue": 1713,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6AF8\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 56, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-26T19:45:35.527+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpmkijwm007ggexfrg88knt5",
@@ -1840,7 +1840,7 @@
       "estimatedValue": 5087,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u706B\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-26T19:44:42.31+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmplydd4x0076gexfhzvu3eli",
@@ -1852,7 +1852,7 @@
       "estimatedValue": 10262,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-26T09:24:48.705+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpkj3s82006qgexf6mhhdaoa",
@@ -1864,7 +1864,7 @@
       "estimatedValue": 1932,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 56, \u0022UnitPrice\u0022: 25, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-25T09:29:41.282+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpkj3d3l006ogexfixxdaf9a",
@@ -1876,7 +1876,7 @@
       "estimatedValue": 7565,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9B54\u79D1\u5B78\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 20, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6AF8\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 306, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96F7\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 57, \u0022UnitPrice\u0022: 25, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-25T09:29:21.682+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpkj2c01006mgexffhrpycr2",
@@ -1888,7 +1888,7 @@
       "estimatedValue": 3388,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9748\u9280\u6C99\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 108, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-25T09:28:33.601+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpj3j777005xgexfvmu13etv",
@@ -1900,7 +1900,7 @@
       "estimatedValue": 774,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u6A39\u916F\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-05-24T09:26:00.499+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpi52odp005rgexfovxx9q1g",
@@ -1912,7 +1912,7 @@
       "estimatedValue": 1820,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 25, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-23T17:21:22.67+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpi52ag4005pgexf6idpgciw",
@@ -1924,7 +1924,7 @@
       "estimatedValue": 1600,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 62, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-23T17:21:04.612+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpi51ndb005ngexfjc720ql6",
@@ -1936,7 +1936,7 @@
       "estimatedValue": 1385,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96EA\u677E\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-23T17:20:34.704+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpgwovrl0059gexf33b249ld",
@@ -1948,7 +1948,7 @@
       "estimatedValue": 5376,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 78, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-22T20:38:55.953+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpg8z8nq004zgexf9nw4be9m",
@@ -1960,7 +1960,7 @@
       "estimatedValue": 2377,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 59, \u0022UnitPrice\u0022: 25, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96EA\u677E\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-22T09:35:08.438+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpg8yrbi004xgexff3fp36na",
@@ -1972,7 +1972,7 @@
       "estimatedValue": 20078,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-22T09:34:45.966+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpg8y4d1004vgexfwv9zjzs1",
@@ -1984,7 +1984,7 @@
       "estimatedValue": 2043,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 62, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-22T09:34:16.214+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpet68z70049gexfbcbr0vqx",
@@ -1996,7 +1996,7 @@
       "estimatedValue": 604,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 72, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9B54\u79D1\u5B78\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 20, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-21T09:24:55.411+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpe1d7zg0045gexflsb42t2h",
@@ -2008,7 +2008,7 @@
       "estimatedValue": 25712,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 51, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-20T20:26:31.468+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpe0dpyd0043gexfzt0b2dz2",
@@ -2020,7 +2020,7 @@
       "estimatedValue": 3758,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 62, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9237\u9435\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-20T19:58:55.142+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpdylvfs003zgexfyvtct4t9",
@@ -2032,7 +2032,7 @@
       "estimatedValue": 2362,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u6A61\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 81, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-20T19:09:16.265+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpby5yjp001bgexfkwzlog8l",
@@ -2044,7 +2044,7 @@
       "estimatedValue": 1224,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 54, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-19T09:21:21.446+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpby4uuw0019gexfyum5nu0i",
@@ -2056,7 +2056,7 @@
       "estimatedValue": 2664,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9237\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96EA\u677E\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-19T09:20:30.008+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpby48a50017gexfdm5l6ge2",
@@ -2068,7 +2068,7 @@
       "estimatedValue": 1795,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 62, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-19T09:20:00.75+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmpby28p80015gexfjru0igpg",
@@ -2080,7 +2080,7 @@
       "estimatedValue": 34980,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9054\u8B58\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 2332, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-19T09:18:27.98+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp9qdkds000kgexfqfwuccfr",
@@ -2092,7 +2092,7 @@
       "estimatedValue": 2517,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u77FD\u5CA9\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u67FF\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 69, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-17T20:07:47.057+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp9qcol0000igexfbm5t1lsm",
@@ -2104,7 +2104,7 @@
       "estimatedValue": 2477,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 32, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96F7\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 57, \u0022UnitPrice\u0022: 25, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-17T20:07:05.844+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp9qc2gb000ggexfclauicnp",
@@ -2116,7 +2116,7 @@
       "estimatedValue": 22392,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 56, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-17T20:06:37.163+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp9qai7e000egexfgai5lxsp",
@@ -2128,7 +2128,7 @@
       "estimatedValue": 23320,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9054\u8B58\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 2332, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-17T20:05:24.266+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp7p0hbj000i12dx0zejwmj0",
@@ -2140,7 +2140,7 @@
       "estimatedValue": 11242,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9054\u8B58\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 400, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u77F3\u7C89\u9ECF\u571F\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 72, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-05-16T09:54:04.592+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp7oz6tw000g12dxo0dpgmhc",
@@ -2152,7 +2152,7 @@
       "estimatedValue": 969,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 57, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-16T09:53:04.341+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp7oyq72000e12dxkkbtyt73",
@@ -2164,7 +2164,7 @@
       "estimatedValue": 3264,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u9280\u6C99\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 102, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 60, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-16T09:52:42.783+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp7oy3b1000c12dxi46l4kms",
@@ -2176,7 +2176,7 @@
       "estimatedValue": 1531,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 37, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-16T09:52:13.118+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp65160w0065u1ydrtj4ieve",
@@ -2188,7 +2188,7 @@
       "estimatedValue": 2436,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u9280\u6C99\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 102, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-15T07:46:58.113+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp650mqj0063u1ydxx0wnl7c",
@@ -2200,7 +2200,7 @@
       "estimatedValue": 3702,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u786C\u9280\u6C99\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 102, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 56, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-15T07:46:33.114+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp5nj2cg005qu1ydixu26twq",
@@ -2212,7 +2212,7 @@
       "estimatedValue": 1520,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u788E\u6676\u0022, \u0022Quantity\u0022: 55, \u0022UnitPrice\u0022: 26, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-14T23:37:00.064+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp5g6tyj005gu1yd59tloqx5",
@@ -2224,7 +2224,7 @@
       "estimatedValue": 1440,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 55, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-14T20:11:32.011+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp4no1l10053u1yd32tooz3q",
@@ -2236,7 +2236,7 @@
       "estimatedValue": 3975,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7687\u91D1\u6C99\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 159, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-14T06:53:06.181+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp43o038004tu1yd8i3xu3ey",
@@ -2248,7 +2248,7 @@
       "estimatedValue": 263,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-13T21:33:11.924+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp43n63z004ru1ydcbv5lgr6",
@@ -2260,7 +2260,7 @@
       "estimatedValue": 36,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-13T21:32:33.071+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp3wl916004hu1ydifzsvtm1",
@@ -2272,7 +2272,7 @@
       "estimatedValue": 100,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9B54\u79D1\u5B78\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 20, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-13T18:15:06.235+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp2lusrg0040u1ydpiyocrsn",
@@ -2284,7 +2284,7 @@
       "estimatedValue": 4627,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7C89\u7802\u5CA9\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 195, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-12T20:26:49.755+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp2lfx4t003yu1yd3tepo153",
@@ -2296,7 +2296,7 @@
       "estimatedValue": 594,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 33, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-12T20:15:15.581+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp2lf1ba003wu1ydym5aug2o",
@@ -2308,7 +2308,7 @@
       "estimatedValue": 231,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 33, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-12T20:14:34.341+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp1wd8jz0034u1ydvnai75p9",
@@ -2320,7 +2320,7 @@
       "estimatedValue": 38,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-12T08:33:20.015+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp171x9h002zu1yd7wz9qups",
@@ -2332,7 +2332,7 @@
       "estimatedValue": 273,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-11T20:44:41.765+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp0j44a5002uu1ydn3jzoqfb",
@@ -2344,7 +2344,7 @@
       "estimatedValue": 1727,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-11T09:34:33.389+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmp0j3pmz002su1yd4jz0sghp",
@@ -2356,7 +2356,7 @@
       "estimatedValue": 546,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 42, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-11T09:34:14.411+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmozxeln7002iu1ydid0ma2pl",
@@ -2368,7 +2368,7 @@
       "estimatedValue": 378021,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 75, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9B54\u79D1\u5B78\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 20, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-10T23:26:50.899+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoz8kuch002eu1ydgfuxhz48",
@@ -2380,7 +2380,7 @@
       "estimatedValue": 588,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 42, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-10T11:51:51.712+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoyhsg1l001xu1ydg57rmzk8",
@@ -2392,7 +2392,7 @@
       "estimatedValue": 19225,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-09T23:21:56.793+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoya5n45001tu1yd2ehe0ozd",
@@ -2404,7 +2404,7 @@
       "estimatedValue": 1520,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9A45\u5E7B\u6676\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 190, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-09T19:48:15.558+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmox5nfs00019u1ydff6nooz9",
@@ -2416,7 +2416,7 @@
       "estimatedValue": 2646,
       "itemBreakdown": "[{\u0022Name\u0022: \u00226\u7D1A\u9ED1\u6697\u7269\u8CEA\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 189, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-09T00:54:21.6+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmox40vm50017u1yd0hsgu4si",
@@ -2428,7 +2428,7 @@
       "estimatedValue": 21653,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 66, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u9B54\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 2933, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-09T00:08:49.42+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmowk1tgy000vu1yde4i8lkqr",
@@ -2440,7 +2440,7 @@
       "estimatedValue": 76,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-08T14:49:40.978+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmowhfe22000ru1ydm8io4bpk",
@@ -2452,7 +2452,7 @@
       "estimatedValue": 1140,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9A45\u5E7B\u6676\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 190, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-08T13:36:15.336+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmovhz4oh000cu1yd1xk0plsx",
@@ -2464,7 +2464,7 @@
       "estimatedValue": 950,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9A45\u5E7B\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 190, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-07T21:03:50.129+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmouqyy9f00826hiqf7ff9kfx",
@@ -2476,7 +2476,7 @@
       "estimatedValue": 2267,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 97, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-07T08:27:52.18+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmouqwxg400806hiqkarelz2p",
@@ -2488,7 +2488,7 @@
       "estimatedValue": 26109,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-07T08:26:17.812+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmouqvyuu007y6hiq3wqk7u56",
@@ -2500,7 +2500,7 @@
       "estimatedValue": 4830,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 966, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-07T08:25:32.982+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmotoqkd5007p6hiqf9hin24q",
@@ -2512,7 +2512,7 @@
       "estimatedValue": 4554,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-06T14:37:35.512+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmosfc1aw00726hiqlyctpdp7",
@@ -2524,7 +2524,7 @@
       "estimatedValue": 81,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7D05\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-05T17:26:34.905+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmosfarsw00706hiqsvquki4l",
@@ -2536,7 +2536,7 @@
       "estimatedValue": 27009,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-05T17:25:35.936+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmorzeclj006m6hiqyrxnu55w",
@@ -2548,7 +2548,7 @@
       "estimatedValue": 1314,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 70, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6D6E\u5CF6\u9676\u77F3\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 194, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-05T10:00:29+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmory40kt006b6hiqm9j5ujvr",
@@ -2560,7 +2560,7 @@
       "estimatedValue": 4554,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-05T09:24:27.245+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoqjv2uw005n6hiqyf3ixykb",
@@ -2572,7 +2572,7 @@
       "estimatedValue": 377583,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5929\u7136\u9ECF\u571F\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-04T09:57:49.495+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoqid8jz005l6hiqwwm4qgjp",
@@ -2584,7 +2584,7 @@
       "estimatedValue": 2151,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 97, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-04T09:15:57.455+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoqic5pv005j6hiq1xjjsswz",
@@ -2596,7 +2596,7 @@
       "estimatedValue": 1780,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-04T09:15:07.123+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmopujjmr00576hiqx49ukbcy",
@@ -2608,7 +2608,7 @@
       "estimatedValue": 3960,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-03T22:09:00.963+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmookz49900446hiqkhr1qspf",
@@ -2620,7 +2620,7 @@
       "estimatedValue": 505,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6B66\u7565\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 56, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-03T00:53:25.196+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmooemyub003h6hiqzb4y3skf",
@@ -2632,7 +2632,7 @@
       "estimatedValue": 100776,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 51, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u516B\u9762\u787C\u7802\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 95000, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 496, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-05-02T21:56:00.606+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoo7mh1q003f6hiq69jj2b4s",
@@ -2644,7 +2644,7 @@
       "estimatedValue": 527,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 94, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-05-02T18:39:40.236+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoo339cm003a6hiqvgmj5eaa",
@@ -2656,7 +2656,7 @@
       "estimatedValue": 23988,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u73AB\u7470\u91D1\u9320\u0022, \u0022Quantity\u0022: 12, \u0022UnitPrice\u0022: 1999, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-02T16:32:45.333+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmommz435002m6hiqyqlswh0o",
@@ -2668,7 +2668,7 @@
       "estimatedValue": 752,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u795E\u6F14\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 94, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-01T16:13:51.855+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmomaj6rv002d6hiqa7gwkxrs",
@@ -2680,7 +2680,7 @@
       "estimatedValue": 4618,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 64, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9B54\u5320\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 210, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-01T10:25:33.452+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmomai3eu002b6hiqunhg35l2",
@@ -2692,7 +2692,7 @@
       "estimatedValue": 2480,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 97, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-01T10:24:42.438+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmomahoj400296hiqgrw925on",
@@ -2704,7 +2704,7 @@
       "estimatedValue": 4484,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u767D\u96F2\u6BCD\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 146, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-05-01T10:24:23.152+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoku2l6q001t6hiq7efl7rvf",
@@ -2716,7 +2716,7 @@
       "estimatedValue": 133,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-30T09:56:58.946+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmokawle1001k6hiqwv1lly5t",
@@ -2728,7 +2728,7 @@
       "estimatedValue": 148,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-30T01:00:26.568+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmok2ezya001e6hiqq01i203e",
@@ -2740,7 +2740,7 @@
       "estimatedValue": 96344,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u85CD\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 96, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u516B\u9762\u787C\u7802\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 95000, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u963F\u723E\u57FA\u514B\u85B0\u8863\u8349\u7A2E\u5B50\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 216, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-29T21:02:48.702+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmok1gmi900136hiqlm7m1xa6",
@@ -2752,7 +2752,7 @@
       "estimatedValue": 4765,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7C89\u7802\u5CA9\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 195, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-29T20:36:04.978+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoixsew5000d6hiqua16yilm",
@@ -2764,7 +2764,7 @@
       "estimatedValue": 1820,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 99, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-29T02:05:30.341+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoic4o5j002p13959ovej49r",
@@ -2776,7 +2776,7 @@
       "estimatedValue": 1110,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 94, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-28T15:59:10.663+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmohy7fu9002e1395ipmkuepu",
@@ -2788,7 +2788,7 @@
       "estimatedValue": 474,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 65, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-28T09:29:25.234+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmohy5hxg002c1395atub6y5h",
@@ -2800,7 +2800,7 @@
       "estimatedValue": 1260,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-28T09:27:54.624+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoh35qtf00231395qwkqah55",
@@ -2812,7 +2812,7 @@
       "estimatedValue": 9,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u79D1\u8349\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-27T19:00:18.048+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoggvwjg001d13952hae4whj",
@@ -2824,7 +2824,7 @@
       "estimatedValue": 28,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-27T08:36:47.356+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmofxz03i000u1395gekk83nd",
@@ -2836,7 +2836,7 @@
       "estimatedValue": 408,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-26T23:47:19.229+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoffui95000l1395xr54oifa",
@@ -2848,7 +2848,7 @@
       "estimatedValue": 993,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u9060\u822A\u9EC3\u9285\u901A\u8CA8\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-26T15:19:56.393+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmof8lq4a000j13954wfhfn8t",
@@ -2860,7 +2860,7 @@
       "estimatedValue": 1568,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 32, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-26T11:57:09.37+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoebh2ii0035ic7wxoe0ctua",
@@ -2872,7 +2872,7 @@
       "estimatedValue": 573,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 94, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-25T20:29:44.827+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmodveswq000aic7wwxopuwd8",
@@ -2884,7 +2884,7 @@
       "estimatedValue": 503,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9435\u5200\u6728\u0022, \u0022Quantity\u0022: 26, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-25T13:00:05.21+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmodvclyo0008ic7we3lbozkr",
@@ -2896,7 +2896,7 @@
       "estimatedValue": 3900,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-25T12:58:22.897+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmod5jrlk000fc44vpzftgbpi",
@@ -2908,7 +2908,7 @@
       "estimatedValue": 583885,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u591A\u746A\u8292\u8349\u82D7\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 583333, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 68, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7149\u91D1\u7E96\u7DAD\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-25T00:56:06.776+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoccsoms003s73h5z6dyzud5",
@@ -2920,7 +2920,7 @@
       "estimatedValue": 76,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-24T11:31:13.972+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoccr9uo003q73h5fpx744ph",
@@ -2932,7 +2932,7 @@
       "estimatedValue": 1140,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-24T11:30:08.16+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmobhjaz5003573h5xvbw8twp",
@@ -2944,7 +2944,7 @@
       "estimatedValue": 81,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-23T20:56:08.273+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoazz8l5005yyiov98ys5uzi",
@@ -2956,7 +2956,7 @@
       "estimatedValue": 711,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u85CD\u6C34\u6676\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 96, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 3, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-23T12:44:38.584+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoavsg62005uyiovk2mod3gh",
@@ -2968,7 +2968,7 @@
       "estimatedValue": 1047,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u85CD\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 96, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5929\u7136\u9ECF\u571F\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u5408\u6210\u751F\u7269\u7684\u7C97\u76AE\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 60, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-23T10:47:23.354+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmoafhyuw005nyiovxjw78da1",
@@ -2980,7 +2980,7 @@
       "estimatedValue": 1955,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-23T03:11:20.504+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo9bil2l004vyiovpjb6g5w2",
@@ -2992,7 +2992,7 @@
       "estimatedValue": 2716,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6B66\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 185, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-22T08:32:04.654+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo9bf8tp004tyiovp4xadb4d",
@@ -3004,7 +3004,7 @@
       "estimatedValue": 1137,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7D05\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-22T08:29:28.814+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo8rnita004hyiovgz60sjkm",
@@ -3016,7 +3016,7 @@
       "estimatedValue": 222,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u93A2\u9435\u7926\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5929\u7136\u9ECF\u571F\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-21T23:16:02.686+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo8gr6gg0047yiovws4hj2ac",
@@ -3028,7 +3028,7 @@
       "estimatedValue": 91,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-21T18:10:57.52+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo7jj1yz002qyiov7qkz90du",
@@ -3040,7 +3040,7 @@
       "estimatedValue": 2146,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5DE8\u5320\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 68, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 47, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 42, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u74E6\u62C9\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-21T02:40:51.132+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo7iasw4002oyiovvxsqphmu",
@@ -3052,7 +3052,7 @@
       "estimatedValue": 4846,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9B54\u5320\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 210, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u661F\u7D05\u77F3\u0022, \u0022Quantity\u0022: 27, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-21T02:06:26.5+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo73507j002hyiovl3mhkazt",
@@ -3064,7 +3064,7 @@
       "estimatedValue": 22509,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-20T19:02:01.806+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo6gpm5g0010yiov478aj1vp",
@@ -3076,7 +3076,7 @@
       "estimatedValue": 1111,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 3, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-20T08:34:12.196+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo5u3aap000syiovjyxpkrw0",
@@ -3088,7 +3088,7 @@
       "estimatedValue": 2480,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 60, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u661F\u7D05\u77F3\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-19T22:00:58.849+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo5u1e1m000qyiovjdrcn541",
@@ -3100,7 +3100,7 @@
       "estimatedValue": 11538,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-19T21:59:30.394+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo52qwls000qb1jtlggljv5e",
@@ -3112,7 +3112,7 @@
       "estimatedValue": 2211,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 213, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-19T09:15:31.6+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo4j1jja0007b1jttv5rpuju",
@@ -3124,7 +3124,7 @@
       "estimatedValue": 1806,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-19T00:03:55.559+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo478480002u2vqad5w63nqx",
@@ -3136,7 +3136,7 @@
       "estimatedValue": 1832,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96F7\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 69, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-18T18:33:06.912+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo44w42j002p2vqacm1xf94m",
@@ -3148,7 +3148,7 @@
       "estimatedValue": 1112,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-18T17:27:47.611+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo2u5u86001n2vqa3fwnv9k8",
@@ -3160,7 +3160,7 @@
       "estimatedValue": 21148,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6B66\u7565\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 56, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-17T19:39:39.462+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo2oh63d001l2vqaq9fxejz1",
@@ -3172,7 +3172,7 @@
       "estimatedValue": 843,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 249, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 99, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-17T17:00:30.361+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo2mbjcl001j2vqamfzic644",
@@ -3184,7 +3184,7 @@
       "estimatedValue": 2175,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u9B54\u5320\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-17T16:00:08.373+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo2l70qz001h2vqah9qsp7ms",
@@ -3196,7 +3196,7 @@
       "estimatedValue": 5164,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 36, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-17T15:28:38.026+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo18t138000f2vqa67bevisy",
@@ -3208,7 +3208,7 @@
       "estimatedValue": 788,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6A39\u679D\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-16T16:54:03.716+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo102b0z000c2vqae6aka86m",
@@ -3220,7 +3220,7 @@
       "estimatedValue": 944,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6A39\u679D\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-16T12:49:19.954+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo0szp13000a2vqajmt3uoss",
@@ -3232,7 +3232,7 @@
       "estimatedValue": 18288,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6676\u7C07\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-16T09:31:20.824+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmo0syq0h00082vqa93x6n7qj",
@@ -3244,7 +3244,7 @@
       "estimatedValue": 882,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u8086\u578B\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 97, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u85CD\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 9, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-16T09:30:35.441+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnzv7obm000m747st3tomnel",
@@ -3256,7 +3256,7 @@
       "estimatedValue": 4198,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-15T17:45:46.21+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnzesgd40007jse2yxs12a1d",
@@ -3268,7 +3268,7 @@
       "estimatedValue": 104,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-15T10:06:02.2+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnyt6fve000b122k1yr3uskt",
@@ -3280,7 +3280,7 @@
       "estimatedValue": 1950,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 8, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 99, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-15T00:01:03.195+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnyt2kl60009122kllrnpudz",
@@ -3292,7 +3292,7 @@
       "estimatedValue": 49,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 3, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-14T23:58:02.682+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnyilzxu0018zuzjm65me0jl",
@@ -3304,7 +3304,7 @@
       "estimatedValue": 0,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7531\u65BC\u6539\u52D5\u5C0E\u81F4\u7D00\u9304\u907A\u5931\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-14T19:05:13.266+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnyilxag0016zuzjq0c09yey",
@@ -3316,7 +3316,7 @@
       "estimatedValue": 0,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7531\u65BC\u6539\u52D5\u5C0E\u81F4\u7D00\u9304\u907A\u5931\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-14T19:05:09.833+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnyilv9o0014zuzjx3kifcs9",
@@ -3328,7 +3328,7 @@
       "estimatedValue": 0,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7531\u65BC\u6539\u52D5\u5C0E\u81F4\u7D00\u9304\u907A\u5931\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-14T19:05:07.212+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnyilshs0012zuzjva91de7r",
@@ -3340,7 +3340,7 @@
       "estimatedValue": 0,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7531\u65BC\u6539\u52D5\u5C0E\u81F4\u7D00\u9304\u907A\u5931\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-04-14T19:05:03.617+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnv4xhtu0009fk81wwxmefd6",
@@ -3352,7 +3352,7 @@
       "estimatedValue": 1352,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6728\u539F\u6728\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 49, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u661F\u7D05\u77F3\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-12T10:18:56.514+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnv4sckc0007fk81tnrctkdw",
@@ -3364,7 +3364,7 @@
       "estimatedValue": 1440,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u85CD\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 96, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 32, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-12T10:14:56.413+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnv4ohf90005fk8174uef0r2",
@@ -3376,7 +3376,7 @@
       "estimatedValue": 19477,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 80, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7DCB\u7D05\u6A39\u6C41\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 203, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5668\u8B58\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-12T10:11:56.085+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnv4k9go0003fk81icdoli2y",
@@ -3388,7 +3388,7 @@
       "estimatedValue": 210657,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u9664\u81ED\u660E\u792C\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 210000, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96F7\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 33, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-12T10:08:39.144+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmntiea2t000hmzf4qsw835fp",
@@ -3400,7 +3400,7 @@
       "estimatedValue": 396,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-11T07:00:22.277+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnth1b9z000fmzf4ians34zu",
@@ -3412,7 +3412,7 @@
       "estimatedValue": 12365,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-11T06:22:17.686+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmns91o6p0007mzf41cxxrbjv",
@@ -3424,7 +3424,7 @@
       "estimatedValue": 2706,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 59, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-10T09:50:51.314+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmns90u1o0005mzf43oxkqbbp",
@@ -3436,7 +3436,7 @@
       "estimatedValue": 19,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-10T09:50:12.253+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmns90fo30003mzf4kmz36fam",
@@ -3448,7 +3448,7 @@
       "estimatedValue": 8866,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 316, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 570, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-10T09:49:53.619+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnqsgfqh00238y415xw6qw7q",
@@ -3460,7 +3460,7 @@
       "estimatedValue": 1695,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 99, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-09T09:18:40.553+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnqsercq00218y41qxy5bwld",
@@ -3472,7 +3472,7 @@
       "estimatedValue": 378038,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5FB7\u62C9\u74E6\u5C3C\u4E9E\u6D6E\u8349\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 376666, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-09T09:17:22.298+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnq3uzx90001b3yosm64s6q9",
@@ -3484,7 +3484,7 @@
       "estimatedValue": 7192,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6B66\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 185, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-08T21:50:09.499+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnoifgqy0001v2hmruutt0jv",
@@ -3496,7 +3496,7 @@
       "estimatedValue": 291,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6676\u7C07\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 3, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7DA0\u6676\u7C07\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 249, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-07T19:02:26.698+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmno6gtzi000912ewniyg68uz",
@@ -3508,7 +3508,7 @@
       "estimatedValue": 1722,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 42, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-07T13:27:35.119+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmno6g3zg000712ewdox6c33a",
@@ -3520,7 +3520,7 @@
       "estimatedValue": 696,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-07T13:27:01.42+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnn0u9lw000zre5d7saayd75",
@@ -3532,7 +3532,7 @@
       "estimatedValue": 9228,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7DCB\u7D05\u6A39\u6C41\u0022, \u0022Quantity\u0022: 42, \u0022UnitPrice\u0022: 203, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-06T18:02:18.02+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnmmksw2000xre5dp7u0mge1",
@@ -3544,7 +3544,7 @@
       "estimatedValue": 76,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 4, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-06T11:23:01.826+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnmmjpdz000vre5djhnkmeuq",
@@ -3556,7 +3556,7 @@
       "estimatedValue": 770,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 33, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 11, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-06T11:22:10.631+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnlnds94000tre5dq7pumpr1",
@@ -3568,7 +3568,7 @@
       "estimatedValue": 678,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u93A2\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-05T18:57:47.848+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnl5ek6q000rre5ductvcea0",
@@ -3580,7 +3580,7 @@
       "estimatedValue": 2825,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u84BC\u5929\u77F3\u539F\u77F3\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 30, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-05T10:34:30.962+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnl5da2j000pre5dc4s6vjxn",
@@ -3592,7 +3592,7 @@
       "estimatedValue": 1122,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-05T10:33:31.196+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnjr38jm000lre5d23g34akg",
@@ -3604,7 +3604,7 @@
       "estimatedValue": 1546,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5DE8\u578B\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 44, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 36, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 14, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-04T11:06:01.858+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnj2pajd0001re5dbd2esn86",
@@ -3616,7 +3616,7 @@
       "estimatedValue": 20076,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 2, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-04-03T23:43:20.473+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnip0sz700013wxavyjprxop",
@@ -3628,7 +3628,7 @@
       "estimatedValue": 3577,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5DE8\u5320\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 10, \u0022UnitPrice\u0022: 38, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6B66\u7565\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 13, \u0022UnitPrice\u0022: 185, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 36, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-03T17:20:22.963+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnhp6nwx0003gl0ks892qyyj",
@@ -3640,7 +3640,7 @@
       "estimatedValue": 4682,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u5DE8\u5320\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 68, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 119, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-03T00:37:10.162+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnhp3ha70001gl0kowidcxl2",
@@ -3652,7 +3652,7 @@
       "estimatedValue": 229053,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9664\u81ED\u660E\u792C\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 210000, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-03T00:34:41.593+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmngua8x6000311ldl5v2muag",
@@ -3664,7 +3664,7 @@
       "estimatedValue": 124,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 6, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-02T10:12:09.258+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnfqr6pi0003z2h3cszs13km",
@@ -3676,7 +3676,7 @@
       "estimatedValue": 48635,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 76, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5DE8\u5320\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 68, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 48, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5668\u8B58\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 300, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 45, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-01T15:45:34.902+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnfqpbip0001z2h364as4bgr",
@@ -3688,7 +3688,7 @@
       "estimatedValue": 38966,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 47, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5668\u8B58\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 846, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-04-01T15:44:07.819+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmneoo8ms00cjcsoqfewpl0yn",
@@ -3700,7 +3700,7 @@
       "estimatedValue": 11001,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u91D1\u7926\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 366, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7DA0\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-31T21:59:32.021+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmne93i1v00chcsoqfp3qty89",
@@ -3712,7 +3712,7 @@
       "estimatedValue": 3852,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u79D1\u8349\u0022, \u0022Quantity\u0022: 49, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8A60\u5531\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 120, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 76, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-31T14:43:30.212+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmne926ev00cfcsoqryyv2mu1",
@@ -3724,7 +3724,7 @@
       "estimatedValue": 26307,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 496, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 29, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7DCB\u7D05\u6A39\u6C41\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 203, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-31T14:42:28.472+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnd1g2mi00cdcsoqrvwnw09l",
@@ -3736,7 +3736,7 @@
       "estimatedValue": 382,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u7D05\u6C34\u6676\u0022, \u0022Quantity\u0022: 5, \u0022UnitPrice\u0022: 72, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u947D\u77F3\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 1, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-30T18:21:33.642+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmncudpej00cbcsoq1jh0772q",
@@ -3748,7 +3748,7 @@
       "estimatedValue": 29070,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 32, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u79D1\u8349\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u5EE2\u6750\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-03-30T15:03:45.883+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnck7lw700c9csoq7mdig6id",
@@ -3760,7 +3760,7 @@
       "estimatedValue": 1009,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 44, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 76, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-30T10:19:05.239+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnbgdbj400c7csoqw7xod3w9",
@@ -3772,7 +3772,7 @@
       "estimatedValue": 12935,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u767D\u91D1\u7926\u0022, \u0022Quantity\u0022: 35, \u0022UnitPrice\u0022: 366, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u5BF6\u77F3\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 5, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-29T15:43:47.104+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmnbgc9r400c5csoquonu6vno",
@@ -3784,7 +3784,7 @@
       "estimatedValue": 10489,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 28, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 12, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u5668\u8B58\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 9, \u0022UnitPrice\u0022: 846, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-29T15:42:58.145+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn9ud4q000brcsoqdi3qhx8z",
@@ -3796,7 +3796,7 @@
       "estimatedValue": 18332,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6B66\u7565\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 932, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-28T12:40:00.553+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn9ucf8800bpcsoqhw6yr6kv",
@@ -3808,7 +3808,7 @@
       "estimatedValue": 19792,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 7, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 12, \u0022UnitPrice\u0022: 59, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-28T12:39:27.51+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn8g8u3d00bncsoqt1jjhbn8",
@@ -3820,7 +3820,7 @@
       "estimatedValue": 1258,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 74, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-27T13:16:59.354+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn8g63rs00blcsoqpv0u112t",
@@ -3832,7 +3832,7 @@
       "estimatedValue": 23623,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u8F15\u6728\u6728\u6750\u0022, \u0022Quantity\u0022: 3, \u0022UnitPrice\u0022: 19, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u79D1\u8349\u0022, \u0022Quantity\u0022: 21, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}, {\u0022Name\u0022: \u0022\u704C\u6728\u6A39\u82D7\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 4666, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-27T13:14:51.929+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn6t0xuv00bhcsoqezzaewro",
@@ -3844,7 +3844,7 @@
       "estimatedValue": 20432,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u529B\u9B54\u6676\u77F3\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 1260, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-26T09:39:13.639+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn6sexw000bfcsoq967bdkv0",
@@ -3856,7 +3856,7 @@
       "estimatedValue": 44500,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 49, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-26T09:22:07.247+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn5dpd9c009bcsoqscq1pk4a",
@@ -3868,7 +3868,7 @@
       "estimatedValue": 1007,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 49, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}]",
       "createdAt": "2026-03-25T09:42:33.312+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn5dod2i0099csoqzk3moxmv",
@@ -3880,7 +3880,7 @@
       "estimatedValue": 449,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u706B\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 24, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-25T09:41:46.41+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn3wxjvt007tcsoqsi8hm9g1",
@@ -3892,7 +3892,7 @@
       "estimatedValue": 808,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u93A2\u9435\u7926\u0022, \u0022Quantity\u0022: 1, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 50, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-24T09:05:15.497+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn3wod3s007rcsoqcgghyb2g",
@@ -3904,7 +3904,7 @@
       "estimatedValue": 12151,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u98A8\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 18, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 369, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u91D1\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 198, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-24T08:58:06.805+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn1tp8br001zcsoq29u2phtu",
@@ -3916,7 +3916,7 @@
       "estimatedValue": 11637,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 39, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6C34\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7AF9\u7247\u0022, \u0022Quantity\u0022: 12, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u6230\u6280\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 34, \u0022UnitPrice\u0022: 76, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u525B\u67D4\u9B54\u6676\u77F3\u53C3\u578B\u0022, \u0022Quantity\u0022: 16, \u0022UnitPrice\u0022: 496, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-22T21:59:16.072+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmn08l4v8001xcsoqktkh7jsi",
@@ -3928,7 +3928,7 @@
       "estimatedValue": 7380,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u96C4\u7565\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 369, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u4FE1\u5FC3\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 17, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-03-21T19:20:26.852+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmmysy26u0003csoq1q0l01us",
@@ -3940,7 +3940,7 @@
       "estimatedValue": 13980,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6DF1\u8272\u6C34\u6676\u0022, \u0022Quantity\u0022: 30, \u0022UnitPrice\u0022: 16, \u0022Source\u0022: \u0022npc\u0022}, {\u0022Name\u0022: \u0022\u85CD\u9435\u7926\u0022, \u0022Quantity\u0022: 15, \u0022UnitPrice\u0022: 900, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-20T19:14:49.878+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmmxdjynx006eogxqzb3qx41r",
@@ -3952,7 +3952,7 @@
       "estimatedValue": 1086,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u93A2\u9435\u7926\u0022, \u0022Quantity\u0022: 23, \u0022UnitPrice\u0022: 8, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u6697\u6817\u6A39\u679D\u0022, \u0022Quantity\u0022: 22, \u0022UnitPrice\u0022: 41, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u9054\u5320\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 18, \u0022UnitPrice\u0022: 0, \u0022Source\u0022: \u0022none\u0022}]",
       "createdAt": "2026-03-19T19:16:11.709+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     },
     {
       "id": "cmmvxcmd10012ogxqnd9rl833",
@@ -3964,8 +3964,8 @@
       "estimatedValue": 4557,
       "itemBreakdown": "[{\u0022Name\u0022: \u0022\u6A3A\u6A39\u679D\u0022, \u0022Quantity\u0022: 25, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u571F\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 38, \u0022UnitPrice\u0022: 7, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u51B0\u4E4B\u6C34\u6676\u0022, \u0022Quantity\u0022: 40, \u0022UnitPrice\u0022: 17, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u7D05\u83AB\u67EF\u8349\u0022, \u0022Quantity\u0022: 49, \u0022UnitPrice\u0022: 15, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u795E\u773C\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 20, \u0022UnitPrice\u0022: 79, \u0022Source\u0022: \u0022market\u0022}, {\u0022Name\u0022: \u0022\u540D\u5320\u9B54\u6676\u77F3\u8CB3\u578B\u0022, \u0022Quantity\u0022: 19, \u0022UnitPrice\u0022: 59, \u0022Source\u0022: \u0022market\u0022}]",
       "createdAt": "2026-03-18T18:54:49.141+08:00",
-      "recordedBy": "512535345859002368"
+      "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-07-20T15:47:08Z"
+  "lastUpdated": "2026-07-20T16:00:02Z"
 }
