@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Fetch Data ---
     async function fetchData() {
         const tbody = document.getElementById('history-tbody');
-        tbody.innerHTML = `<tr><td colspan="5"><div class="loading-state"><div class="spinner"></div><p>載入探索日誌中...</p></div></td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="6"><div class="loading-state"><div class="spinner"></div><p>載入探索日誌中...</p></div></td></tr>`;
         
         try {
             // 加入 timestamp 防止 GitHub 快取
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
             filterHistory();
             
         } catch (err) {
-            tbody.innerHTML = `<tr><td colspan="5" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="6" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
             console.error(err);
         }
     }
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const pagination = document.getElementById('pagination');
         
         if (filteredHistory.length === 0) {
-            tbody.innerHTML = `<tr><td colspan="5" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="6" style="text-align: center; padding: 2rem; color: var(--text-secondary);">無任何探索紀錄</td></tr>`;
             pagination.innerHTML = '';
             return;
         }
@@ -147,6 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${formatRoute(row.route)}</td>
                 <td class="item-list">${itemsHtml}</td>
                 <td>${estValueHtml}</td>
+                <td style="color: var(--text-secondary); font-size: 0.9em;"><i class="fa-solid fa-user" style="opacity: 0.7; margin-right: 4px;"></i>${row.recordedBy || '搗蛋麻糬'}</td>
             `;
             tbody.appendChild(tr);
         });
