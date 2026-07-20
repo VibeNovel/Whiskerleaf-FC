@@ -52,12 +52,13 @@ function renderData(data) {
         let displayTime = dateStr;
         
         if (record.activatedAt) {
-            const actDate = new Date(record.activatedAt);
-            const month = (actDate.getMonth() + 1).toString().padStart(2, '0');
-            const day = actDate.getDate().toString().padStart(2, '0');
-            const hours = actDate.getHours().toString().padStart(2, '0');
-            const mins = actDate.getMinutes().toString().padStart(2, '0');
-            displayTime = `${month}/${day} ${hours}:${mins}`;
+            const dateStr = record.activatedAt.endsWith('Z') ? record.activatedAt : record.activatedAt + 'Z';
+            const actDate = new Date(dateStr);
+            displayTime = actDate.toLocaleString('zh-TW', {
+                month: '2-digit', day: '2-digit', 
+                hour: '2-digit', minute: '2-digit',
+                hour12: false
+            });
         }
 
         tr.innerHTML = `

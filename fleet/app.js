@@ -26,10 +26,23 @@ document.addEventListener('DOMContentLoaded', () => {
     function formatRoute(rawRoute) {
         if (!rawRoute || rawRoute === '未設定') return rawRoute;
         const parts = rawRoute.split(/ → |->/);
-        return parts.map(p => {
-            const token = p.split(/[ 　]/).filter(Boolean)[0];
-            return token || p;
-        }).join(' → ');
+        let detectedRegion = "";
+        const cleanParts = parts.map(p => {
+            const token = p.split(/[ 　]/).filter(Boolean)[0] || p;
+            const regionMatch = token.match(/[\u4e00-\u9fa5]+/);
+            const pointMatch = token.match(/[A-Za-z0-9]+/);
+            
+            const region = regionMatch ? regionMatch[0] : "";
+            const point = pointMatch ? pointMatch[0] : token;
+            
+            if (!detectedRegion && region) {
+                detectedRegion = region;
+            }
+            return point;
+        });
+        
+        const routeStr = cleanParts.join(' → ');
+        return detectedRegion ? `(${detectedRegion})${routeStr}` : routeStr;
     }
 
     function formatDateLocal(dateStr) {
