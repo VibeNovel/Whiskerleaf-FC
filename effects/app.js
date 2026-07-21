@@ -52,8 +52,7 @@ function renderData(data) {
         let displayTime = dateStr;
         
         if (record.activatedAt) {
-            const dateStr = record.activatedAt.endsWith('Z') ? record.activatedAt : record.activatedAt + 'Z';
-            const actDate = new Date(dateStr);
+            const actDate = new Date(record.activatedAt);
             displayTime = actDate.toLocaleString('zh-TW', {
                 month: '2-digit', day: '2-digit', 
                 hour: '2-digit', minute: '2-digit'
