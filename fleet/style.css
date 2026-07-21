@@ -200,7 +200,6 @@ h1, h2, h3, .ffxiv-font {
 
 /* Table */
 .table-container {
-    overflow-x: auto;
     padding: 0; /* Remove inner padding so table goes edge to edge */
 }
 
@@ -365,4 +364,11 @@ footer {
     margin-top: 2rem;
     padding-bottom: 2rem;
     opacity: 0.6;
+}
+
+/* Responsive Table */
+@media (max-width: 768px) {
+    .table-container {
+        overflow-x: auto;
+    }
 }
