@@ -1,19 +1,12 @@
 {
   "history": [
     {
-      "date": "2026-07-21",
-      "action1": "\u91D1\u789F\u5E63\u63D0\u9AD8 II",
-      "action2": "\u50B3\u9001\u512A\u60E0 II",
-      "activatedBy": "\u6417\u86CB\u9EBB\u7CEC",
-      "activatedAt": "2026-07-21 17:42:20"
-    },
-    {
       "date": "2026-07-20",
       "action1": "\u91D1\u789F\u5E63\u63D0\u9AD8 II",
       "action2": "\u50B3\u9001\u512A\u60E0 II",
-      "activatedBy": "\u6417\u86CB\u9EBB\u7CEC",
-      "activatedAt": "2026-07-21 01:33:53"
+      "activatedBy": "\u30AA\u30EA\u30D0\u30FC",
+      "activatedAt": "2026-07-20 17:33:53"
     }
   ],
-  "lastUpdated": "2026-07-21T01:42:20Z"
+  "lastUpdated": "2026-07-21T02:13:24Z"
 }
