@@ -2,6 +2,16 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchData();
 });
 
+function escapeHtml(str) {
+    if (str === null || str === undefined) return '';
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
 async function fetchData() {
     try {
         // 為了在 GitHub Pages 上運作，直接讀取同目錄下的 data.json
@@ -60,10 +70,10 @@ function renderData(data) {
         }
 
         tr.innerHTML = `
-            <td style="color: var(--text-secondary)">${displayTime}</td>
-            <td style="font-weight: 500;">${record.action1}</td>
-            <td style="font-weight: 500;">${record.action2}</td>
-            <td><i class="fa-solid fa-user-check" style="color: var(--ffxiv-gold); margin-right: 5px;"></i> ${record.activatedBy}</td>
+            <td style="color: var(--text-secondary)">${escapeHtml(displayTime)}</td>
+            <td style="font-weight: 500;">${escapeHtml(record.action1)}</td>
+            <td style="font-weight: 500;">${escapeHtml(record.action2)}</td>
+            <td><i class="fa-solid fa-user-check" style="color: var(--ffxiv-gold); margin-right: 5px;"></i> ${escapeHtml(record.activatedBy)}</td>
         `;
         
         tbody.appendChild(tr);

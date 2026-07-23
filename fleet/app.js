@@ -23,6 +23,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const API_BASE = 'data.json'; // 靜態 JSON 檔案
 
     // --- Formatting Helpers ---
+    function escapeHtml(str) {
+        if (str === null || str === undefined) return '';
+        return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;');
+    }
+
     function formatRoute(rawRoute) {
         if (!rawRoute || rawRoute === '未設定') return rawRoute;
         const parts = rawRoute.split(/ → |->/);
@@ -125,14 +135,15 @@ document.addEventListener('DOMContentLoaded', () => {
                         const itemSource = b.source || b.Source;
                         const itemPrice = b.unitPrice !== undefined ? b.unitPrice : b.UnitPrice;
                         
-                        const displayName = qty > 1 ? `${itemName}x${qty}` : itemName;
+                        const safeItemName = escapeHtml(itemName);
+                        const displayName = qty > 1 ? `${safeItemName}x${escapeHtml(qty)}` : safeItemName;
                         const sourceText = itemSource === 'market' ? 'Universalis (市場均價)' : (itemSource === 'npc' ? 'NPC 商店賣價' : '無法販售');
                         const priceText = itemPrice > 0 ? `💰 ${itemPrice.toLocaleString()}` : '無法販售';
                         itemsHtml += `
                             <div class="item-container">
                                 ${displayName}
                                 <div class="item-tooltip">
-                                    <div class="tooltip-title">${itemName}</div>
+                                    <div class="tooltip-title">${safeItemName}</div>
                                     <div class="tooltip-price">單價: <span>${priceText}</span></div>
                                     <div class="tooltip-source">來源: ${sourceText}</div>
                                 </div>
@@ -155,12 +166,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             tr.innerHTML = `
-                <td style="color: var(--text-secondary)">${formatDateLocal(row.createdAt)}</td>
-                <td style="font-weight: 500;">${emoji} ${row.fleetName}</td>
-                <td>${formatRoute(row.route)}</td>
+                <td style="color: var(--text-secondary)">${escapeHtml(formatDateLocal(row.createdAt))}</td>
+                <td style="font-weight: 500;">${emoji} ${escapeHtml(row.fleetName)}</td>
+                <td>${escapeHtml(formatRoute(row.route))}</td>
                 <td class="item-list">${itemsHtml}</td>
                 <td>${estValueHtml}</td>
-                <td><i class="fa-solid fa-user-check" style="color: var(--ffxiv-gold); margin-right: 5px;"></i> ${row.recordedBy || '搗蛋麻糬'}</td>
+                <td><i class="fa-solid fa-user-check" style="color: var(--ffxiv-gold); margin-right: 5px;"></i> ${escapeHtml(row.recordedBy || '搗蛋麻糬')}</td>
             `;
             tbody.appendChild(tr);
         });
