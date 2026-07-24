@@ -226,8 +226,8 @@
       "fleetType": "AIRSHIP",
       "route": "\u96F2\u6D7706 \u2192 \u96F2\u6D7713",
       "items": "\u6DF1\u8272\u6C34\u6676 x6, \u6DF1\u85CD\u6676\u7C07x1, \u4FE1\u529B\u9B54\u6676\u77F3\u53C3\u578Bx11",
-      "estimatedValue": 96,
-      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6DF1\\u8272\\u6C34\\u6676\u0022,\u0022quantity\u0022:6,\u0022unitPrice\u0022:16,\u0022source\u0022:\u0022npc\u0022},{\u0022name\u0022:\u0022\\u6DF1\\u85CD\\u9A5A\\u7C07x1. \\u4FE1\\u529B\\u9B54\\u6676\\u77F3\\u53C3\\u578B\u0022,\u0022quantity\u0022:11,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022}]",
+      "estimatedValue": 9257,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6DF1\\u8272\\u6C34\\u6676\u0022,\u0022quantity\u0022:6,\u0022unitPrice\u0022:16,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u6DF1\\u85CD\\u6676\\u7C07\u0022,\u0022quantity\u0022:1,\u0022unitPrice\u0022:9,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u4FE1\\u529B\\u9B54\\u6676\\u77F3\\u53C3\\u578B\u0022,\u0022quantity\u0022:11,\u0022unitPrice\u0022:832,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
       "createdAt": "2026-07-22T20:51:09\u002B08:00",
       "recordedBy": "\u661F\u5E7B\u963F"
     },
@@ -4496,5 +4496,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-07-24T03:48:21Z"
+  "lastUpdated": "2026-07-24T03:52:50Z"
 }
