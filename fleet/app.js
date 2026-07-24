@@ -173,6 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${estValueHtml}</td>
                 <td><i class="fa-solid fa-user-check" style="color: var(--ffxiv-gold); margin-right: 5px;"></i> ${escapeHtml(row.recordedBy || '搗蛋麻糬')}</td>
             `;
+            tr.dataset.rawId = row.rawId || '';
             tbody.appendChild(tr);
         });
 
@@ -215,16 +216,61 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Event Listeners ---
     document.getElementById('refresh-history').addEventListener('click', fetchData);
-    
+
     let searchTimeout;
     document.getElementById('search-history').addEventListener('input', () => {
         clearTimeout(searchTimeout);
         searchTimeout = setTimeout(filterHistory, 300);
     });
 
+    // --- Row Context Menu: 複製 /fcfleet edit 指令 ---
+    // 貼到 Discord 訊息框後，Discord 會辨識出這是一個合法的 slash command 並顯示互動預覽，
+    // 按下 Enter 即可直接帶著這筆紀錄的 id 開啟編輯視窗，不需要再手動打指令或找 ID。
+    const contextMenu = document.getElementById('context-menu');
+    const copyToast = document.getElementById('copy-toast');
+    let contextMenuTargetId = null;
+    let copyToastTimeout;
+
+    document.getElementById('history-tbody').addEventListener('contextmenu', (e) => {
+        const row = e.target.closest('tr[data-raw-id]');
+        if (!row || !row.dataset.rawId) return;
+
+        e.preventDefault();
+        contextMenuTargetId = row.dataset.rawId;
+
+        contextMenu.style.left = `${e.clientX}px`;
+        contextMenu.style.top = `${e.clientY}px`;
+        contextMenu.classList.add('visible');
+    });
+
+    document.addEventListener('click', () => {
+        contextMenu.classList.remove('visible');
+    });
+
+    document.getElementById('ctx-copy-edit').addEventListener('click', async () => {
+        if (!contextMenuTargetId) return;
+        const command = `/fcfleet edit id:${contextMenuTargetId}`;
+
+        try {
+            await navigator.clipboard.writeText(command);
+        } catch (err) {
+            console.error('複製失敗:', err);
+            window.prompt('無法自動複製，請手動複製以下指令：', command);
+            contextMenu.classList.remove('visible');
+            return;
+        }
+
+        contextMenu.classList.remove('visible');
+
+        copyToast.textContent = '✅ 已複製編輯指令，貼到 Discord 即可開啟編輯視窗';
+        copyToast.classList.add('visible');
+        clearTimeout(copyToastTimeout);
+        copyToastTimeout = setTimeout(() => copyToast.classList.remove('visible'), 2500);
+    });
+
     // --- Initial Load ---
     fetchData();
-    
+
     // Auto refresh status every 5 minutes (for GitHub cache)
     setInterval(fetchData, 300000);
 });

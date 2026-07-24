@@ -372,3 +372,75 @@ footer {
         overflow-x: auto;
     }
 }
+
+/* Row Context Menu (右鍵選單) */
+.history-table tbody tr {
+    cursor: context-menu;
+}
+
+.context-menu {
+    position: fixed;
+    z-index: 1000;
+    min-width: 200px;
+    background: rgba(18, 18, 24, 0.97);
+    border: 1px solid var(--ffxiv-gold);
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+    padding: 0.4rem;
+    display: none;
+    font-family: 'Inter', sans-serif;
+}
+
+.context-menu.visible {
+    display: block;
+}
+
+.context-menu button {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    width: 100%;
+    background: transparent;
+    border: none;
+    color: var(--text-primary);
+    padding: 0.65rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    text-align: left;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.context-menu button:hover {
+    background: var(--ffxiv-gold);
+    color: #000;
+}
+
+.context-menu button i {
+    width: 1em;
+    text-align: center;
+}
+
+/* Copy Toast (複製成功提示) */
+.copy-toast {
+    position: fixed;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: rgba(16, 185, 129, 0.95);
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 30px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.copy-toast.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
