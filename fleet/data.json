@@ -33,14 +33,14 @@
       "name": "3\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-07-26T00:29:27.8937149Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1380,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1380\u0022}",
-      "updatedAt": "2026-07-25T01:29:27.897267Z"
+      "updatedAt": "2026-07-26T01:44:09.4660002Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -114,6 +114,19 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001785030249456_6af46c76-068f-4d63-8689-681ede8262d3",
+      "rawId": "6af46c76-068f-4d63-8689-681ede8262d3",
+      "fleetId": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "fleetName": "3\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u7D05\u5BF6\u77F3x30,\u7DA0\u5BF6\u77F3x26,\u85CD\u5BF6\u77F3x25,\u947D\u77F3x27",
+      "estimatedValue": 260,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u7D05\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:30,\u0022unitPrice\u0022:1,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u7DA0\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:26,\u0022unitPrice\u0022:1,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u85CD\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:25,\u0022unitPrice\u0022:6,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u947D\\u77F3\u0022,\u0022quantity\u0022:27,\u0022unitPrice\u0022:2,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-07-26T09:44:09\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001785030189883_044b2628-a688-4a00-a90d-cbf46e8ac212",
       "rawId": "044b2628-a688-4a00-a90d-cbf46e8ac212",
@@ -4561,5 +4574,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-07-26T01:43:11Z"
+  "lastUpdated": "2026-07-26T01:44:11Z"
 }
