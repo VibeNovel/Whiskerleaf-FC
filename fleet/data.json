@@ -5,28 +5,28 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-07-28T11:34:03.9775293Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1380,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1380\u0022}",
-      "updatedAt": "2026-07-27T12:32:24.7481314Z"
+      "updatedAt": "2026-07-27T12:34:03.9901219Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-07-28T11:34:11.0418508Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1380,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1380\u0022}",
-      "updatedAt": "2026-07-27T12:32:58.5403244Z"
+      "updatedAt": "2026-07-27T12:34:11.0457203Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -34,13 +34,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-07-27T00:44:59.4961215Z",
+      "returnAt": "2026-07-28T11:34:17.636843Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1380,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1380\u0022}",
-      "updatedAt": "2026-07-26T01:44:59.4999481Z"
+      "updatedAt": "2026-07-27T12:34:17.6407312Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-07-27T09:05:21.0375276Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "\u96F2\u6D7706 \u2192 \u96F2\u6D7713",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1860,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002206,13|1860\u0022}",
-      "updatedAt": "2026-07-26T02:05:21.0556588Z"
+      "updatedAt": "2026-07-27T12:33:44.9552892Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -114,6 +114,32 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001785155624945_bb4e0dfa-3968-4357-bf66-ba2dcde3ef24",
+      "rawId": "bb4e0dfa-3968-4357-bf66-ba2dcde3ef24",
+      "fleetId": "8de6c018-2586-45a8-94a0-a380c051fb79",
+      "fleetName": "1\u865F \u98DB\u7A7A\u8247",
+      "fleetType": "AIRSHIP",
+      "route": "\u96F2\u6D7706 \u2192 \u96F2\u6D7713",
+      "items": "\u9435\u5200\u6728x2",
+      "estimatedValue": 40,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u9435\\u5200\\u6728\u0022,\u0022quantity\u0022:2,\u0022unitPrice\u0022:20,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-07-27T20:33:44\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
+    {
+      "id": "00000001785155612052_4df712f8-f250-497f-9459-964938217fad",
+      "rawId": "4df712f8-f250-497f-9459-964938217fad",
+      "fleetId": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "fleetName": "3\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u6212\u6307x5,\u4E0A\u7B49\u6C89\u8239\u8033\u98FEx5",
+      "estimatedValue": 190000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u6212\\u6307\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:8000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u4E0A\\u7B49\\u6C89\\u8239\\u8033\\u98FE\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:30000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-07-27T20:33:32\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001785155578531_68cc8de5-7688-4ae9-8ac3-a70626de2f36",
       "rawId": "68cc8de5-7688-4ae9-8ac3-a70626de2f36",
@@ -4613,5 +4639,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-07-27T12:33:26Z"
+  "lastUpdated": "2026-07-27T12:34:26Z"
 }
