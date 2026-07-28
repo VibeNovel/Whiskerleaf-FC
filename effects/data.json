@@ -1,6 +1,13 @@
 {
   "history": [
     {
+      "date": "2026-07-29",
+      "action1": "\u91D1\u789F\u5E63\u63D0\u9AD8 II",
+      "action2": "\u50B3\u9001\u512A\u60E0 II",
+      "activatedBy": "\u661F\u5E7B\u963F",
+      "activatedAt": "2026-07-29T01:01:44\u002B08:00"
+    },
+    {
       "date": "2026-07-28",
       "action1": "\u91D1\u789F\u5E63\u63D0\u9AD8 II",
       "action2": "\u50B3\u9001\u512A\u60E0 II",
@@ -57,5 +64,5 @@
       "activatedAt": "2026-07-20T17:33:53\u002B08:00"
     }
   ],
-  "lastUpdated": "2026-07-28T15:59:47Z"
+  "lastUpdated": "2026-07-28T17:01:44Z"
 }
