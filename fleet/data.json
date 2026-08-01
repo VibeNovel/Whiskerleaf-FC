@@ -19,20 +19,6 @@
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-08-01T14:42:13.6642731Z",
-      "selectedSectors": "O \u2192 J",
-      "region": "\u6EBA\u6C92\u6D77",
-      "favoriteRoute": "",
-      "lastDurationMinutes": 120,
-      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|120\u0022}",
-      "updatedAt": "2026-08-01T12:42:13.6754804Z"
-    },
-    {
-      "id": "360896a9-824f-42b6-ae55-64fabf25183c",
-      "name": "3\u865F \u6F5B\u6C34\u8247",
-      "type": "SUBMERSIBLE",
-      "rank": 1,
       "status": "IDLE",
       "returnAt": null,
       "selectedSectors": "O \u2192 J",
@@ -40,7 +26,21 @@
       "favoriteRoute": "",
       "lastDurationMinutes": 120,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|120\u0022}",
-      "updatedAt": "2026-08-01T14:55:27.8201026Z"
+      "updatedAt": "2026-08-01T14:57:05.3541529Z"
+    },
+    {
+      "id": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "name": "3\u865F \u6F5B\u6C34\u8247",
+      "type": "SUBMERSIBLE",
+      "rank": 1,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-02T13:26:26.9230383Z",
+      "selectedSectors": "O \u2192 J",
+      "region": "\u6EBA\u6C92\u6D77",
+      "favoriteRoute": "",
+      "lastDurationMinutes": 1350,
+      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1350\u0022}",
+      "updatedAt": "2026-08-01T14:56:26.9321335Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -114,6 +114,19 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001785596225340_cb63c952-dc08-4c4b-832d-bda94c3ee48b",
+      "rawId": "cb63c952-dc08-4c4b-832d-bda94c3ee48b",
+      "fleetId": "b64f9d94-95d3-43d9-92ba-030965a1f232",
+      "fleetName": "2\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u6212\u6307x5",
+      "estimatedValue": 40000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u6212\\u6307\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:8000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-01T22:57:05\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001785596127809_077c3403-bfe9-4133-b4a5-1d62c21423d6",
       "rawId": "077c3403-bfe9-4133-b4a5-1d62c21423d6",
@@ -4756,5 +4769,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-01T14:56:19Z"
+  "lastUpdated": "2026-08-01T14:57:19Z"
 }
