@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-08-02T05:42:49.3944881Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "\u96F2\u6D7717",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1020,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002217|1020\u0022}",
-      "updatedAt": "2026-08-01T12:42:49.4058241Z"
+      "updatedAt": "2026-08-04T11:04:12.3562169Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -114,6 +114,19 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001785841452344_8889da4a-11cb-4798-92d2-d9bb6b9d2bc5",
+      "rawId": "8889da4a-11cb-4798-92d2-d9bb6b9d2bc5",
+      "fleetId": "8de6c018-2586-45a8-94a0-a380c051fb79",
+      "fleetName": "1\u865F \u98DB\u7A7A\u8247",
+      "fleetType": "AIRSHIP",
+      "route": "\u96F2\u6D7717",
+      "items": "\u6DF1\u8272\u6C34\u6676 x1",
+      "estimatedValue": 16,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6DF1\\u8272\\u6C34\\u6676\u0022,\u0022quantity\u0022:1,\u0022unitPrice\u0022:16,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-04T19:04:12\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001785596225340_cb63c952-dc08-4c4b-832d-bda94c3ee48b",
       "rawId": "cb63c952-dc08-4c4b-832d-bda94c3ee48b",
@@ -4769,5 +4782,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-01T14:58:21Z"
+  "lastUpdated": "2026-08-04T11:04:14Z"
 }
