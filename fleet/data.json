@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-06T00:04:27.7860119Z",
       "selectedSectors": "\u96F2\u6D7717",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
-      "lastDurationMinutes": 1020,
-      "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002217|1020\u0022}",
-      "updatedAt": "2026-08-04T11:04:12.3562169Z"
+      "lastDurationMinutes": 2220,
+      "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002217|2220\u0022}",
+      "updatedAt": "2026-08-04T11:04:27.8038642Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -4782,5 +4782,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-04T11:04:14Z"
+  "lastUpdated": "2026-08-04T11:05:14Z"
 }
