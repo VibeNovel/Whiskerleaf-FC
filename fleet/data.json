@@ -5,28 +5,28 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-07T14:30:56.3474984Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
-      "lastDurationMinutes": 1350,
-      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1350\u0022}",
-      "updatedAt": "2026-08-05T15:57:37.2724967Z"
+      "lastDurationMinutes": 1347,
+      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
+      "updatedAt": "2026-08-06T16:03:56.3806916Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-07T14:57:07.2588234Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
-      "lastDurationMinutes": 1350,
-      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1350\u0022}",
-      "updatedAt": "2026-08-05T15:57:56.242026Z"
+      "lastDurationMinutes": 1373,
+      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1373\u0022}",
+      "updatedAt": "2026-08-06T16:04:07.3623869Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -4860,5 +4860,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-06T16:03:50Z"
+  "lastUpdated": "2026-08-06T16:04:51Z"
 }
