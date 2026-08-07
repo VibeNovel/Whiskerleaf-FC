@@ -33,14 +33,14 @@
       "name": "3\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-08T14:55:21.3637408Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1361,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1361\u0022}",
-      "updatedAt": "2026-08-07T16:13:43.0322098Z"
+      "updatedAt": "2026-08-07T16:14:21.3677075Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -4912,5 +4912,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-07T16:14:20Z"
+  "lastUpdated": "2026-08-07T16:15:20Z"
 }
