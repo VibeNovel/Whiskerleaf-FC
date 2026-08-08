@@ -6,27 +6,27 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-08T14:41:08.9973558Z",
+      "returnAt": "2026-08-09T13:42:40.6222856Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-07T16:14:09.0042463Z"
+      "updatedAt": "2026-08-08T15:15:40.6453726Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-08-08T15:07:14.9387759Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1373,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1373\u0022}",
-      "updatedAt": "2026-08-07T16:14:14.942762Z"
+      "updatedAt": "2026-08-08T15:15:02.4195819Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -114,6 +114,32 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001786202113176_1a9c0293-9f6f-4146-836d-0c2b870a9cad",
+      "rawId": "1a9c0293-9f6f-4146-836d-0c2b870a9cad",
+      "fleetId": "a4979482-b8ac-46fd-953c-70918839e906",
+      "fleetName": "1\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u624B\u9432 x5",
+      "estimatedValue": 45000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:9000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-08T23:15:13\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
+    {
+      "id": "00000001786202102406_8545c13b-bf67-43ea-a05b-12de3aea4cec",
+      "rawId": "8545c13b-bf67-43ea-a05b-12de3aea4cec",
+      "fleetId": "b64f9d94-95d3-43d9-92ba-030965a1f232",
+      "fleetName": "2\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u624B\u9432 x4",
+      "estimatedValue": 36000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:4,\u0022unitPrice\u0022:9000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-08T23:15:02\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001786202080754_97c04c69-8c3b-479f-b001-e61f8ee2fc0a",
       "rawId": "97c04c69-8c3b-479f-b001-e61f8ee2fc0a",
@@ -4925,5 +4951,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-08T15:14:42Z"
+  "lastUpdated": "2026-08-08T15:15:42Z"
 }
