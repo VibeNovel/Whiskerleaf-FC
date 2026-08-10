@@ -20,13 +20,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-10T13:25:43.6593059Z",
+      "returnAt": "2026-08-11T12:08:26.1585671Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
-      "lastDurationMinutes": 1373,
-      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1373\u0022}",
-      "updatedAt": "2026-08-09T14:32:43.6634817Z"
+      "lastDurationMinutes": 1368,
+      "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1368\u0022}",
+      "updatedAt": "2026-08-10T13:20:26.1718418Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -5016,5 +5016,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-10T13:19:59Z"
+  "lastUpdated": "2026-08-10T13:20:59Z"
 }
