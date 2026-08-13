@@ -5,42 +5,42 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-14T09:09:10.4365062Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-13T10:40:50.8383688Z"
+      "updatedAt": "2026-08-13T10:42:10.4568133Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-14T09:34:16.6968533Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-08-13T10:41:15.3193368Z"
+      "updatedAt": "2026-08-13T10:42:16.7009967Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
       "name": "3\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-14T09:09:22.7986879Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-13T10:41:28.1005965Z"
+      "updatedAt": "2026-08-13T10:42:22.8025008Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-15T01:42:29.182415Z",
       "selectedSectors": "\u96F2\u6D7717",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 2340,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002217|2340\u0022}",
-      "updatedAt": "2026-08-13T10:41:57.3298652Z"
+      "updatedAt": "2026-08-13T10:42:29.1954123Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -5146,5 +5146,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-13T10:41:59Z"
+  "lastUpdated": "2026-08-13T10:42:59Z"
 }
