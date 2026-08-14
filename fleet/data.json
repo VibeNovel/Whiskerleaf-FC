@@ -20,13 +20,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-14T09:34:16.6968533Z",
+      "returnAt": "2026-08-15T08:28:48.7667861Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-08-13T10:42:16.7009967Z"
+      "updatedAt": "2026-08-14T09:36:48.7800232Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -114,6 +114,19 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001786700194401_8d2483fa-2c0f-4b3e-b3ad-a1c987ff63ee",
+      "rawId": "8d2483fa-2c0f-4b3e-b3ad-a1c987ff63ee",
+      "fleetId": "b64f9d94-95d3-43d9-92ba-030965a1f232",
+      "fleetName": "2\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u4E0A\u7B49\u6C89\u8239\u9805\u934A x5, \u661F\u7D05\u77F3 x30, \u7DA0\u5BF6\u77F3 x30",
+      "estimatedValue": 177000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u4E0A\\u7B49\\u6C89\\u8239\\u9805\\u934A\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:34500,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u661F\\u7D05\\u77F3\u0022,\u0022quantity\u0022:30,\u0022unitPrice\u0022:139,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u7DA0\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:30,\u0022unitPrice\u0022:11,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-14T17:36:34\u002B08:00",
+      "recordedBy": "\u6B38\u771F\u7684\u5047\u7684\u5566"
+    },
     {
       "id": "00000001786617717320_f59453ae-673a-4f80-9e9c-4d7abfa83c42",
       "rawId": "f59453ae-673a-4f80-9e9c-4d7abfa83c42",
@@ -5146,5 +5159,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-13T10:42:59Z"
+  "lastUpdated": "2026-08-14T09:36:50Z"
 }
