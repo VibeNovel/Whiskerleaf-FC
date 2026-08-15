@@ -19,14 +19,14 @@
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-16T09:13:38.1024616Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-08-15T10:21:28.0824578Z"
+      "updatedAt": "2026-08-15T10:21:38.1066018Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -5237,5 +5237,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-15T10:21:29Z"
+  "lastUpdated": "2026-08-15T10:22:29Z"
 }
