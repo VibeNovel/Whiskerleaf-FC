@@ -6,13 +6,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-18T08:33:40.5098927Z",
+      "returnAt": "2026-08-19T07:31:31.3245207Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-17T10:06:40.527521Z"
+      "updatedAt": "2026-08-18T09:04:31.3283732Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
@@ -114,6 +114,19 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001787043860476_d420bbd8-4a94-464b-be55-e3a7c9e54309",
+      "rawId": "d420bbd8-4a94-464b-be55-e3a7c9e54309",
+      "fleetId": "a4979482-b8ac-46fd-953c-70918839e906",
+      "fleetName": "1\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u661F\u7D05\u77F3 x27, \u6C89\u8239\u624B\u9432 x4, \u4E0A\u7B49\u6C89\u8239\u8033\u98FE x4, \u4E0A\u7B49\u6C89\u8239\u624B\u9432 x5",
+      "estimatedValue": 298689,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u661F\\u7D05\\u77F3\u0022,\u0022quantity\u0022:27,\u0022unitPrice\u0022:7,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:4,\u0022unitPrice\u0022:9000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u4E0A\\u7B49\\u6C89\\u8239\\u8033\\u98FE\u0022,\u0022quantity\u0022:4,\u0022unitPrice\u0022:30000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u4E0A\\u7B49\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:28500,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-18T17:04:20\u002B08:00",
+      "recordedBy": "\u6B38\u771F\u7684\u5047\u7684\u5566"
+    },
     {
       "id": "00000001787043787532_73123b0c-deff-42bc-861c-59d50b7bc003",
       "rawId": "73123b0c-deff-42bc-861c-59d50b7bc003",
@@ -5341,5 +5354,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-18T09:03:25Z"
+  "lastUpdated": "2026-08-18T09:04:32Z"
 }
