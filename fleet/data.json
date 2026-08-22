@@ -20,13 +20,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-22T06:55:12.3498146Z",
+      "returnAt": "2026-08-23T06:36:12.4089014Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-08-21T08:03:12.3544823Z"
+      "updatedAt": "2026-08-22T07:44:12.4131911Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -34,13 +34,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-22T06:30:19.2929709Z",
+      "returnAt": "2026-08-23T05:07:43.8953357Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-21T08:03:19.2969061Z"
+      "updatedAt": "2026-08-22T06:40:43.8990425Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -114,6 +114,32 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001787384626433_9172636f-be38-45bd-9835-d4a5fc01392b",
+      "rawId": "9172636f-be38-45bd-9835-d4a5fc01392b",
+      "fleetId": "b64f9d94-95d3-43d9-92ba-030965a1f232",
+      "fleetName": "2\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u7D05\u5BF6\u77F3 x29, \u4E0A\u7B49\u6C89\u8239\u8033\u98FE x9, \u947D\u77F3 x25",
+      "estimatedValue": 270216,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u7D05\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:29,\u0022unitPrice\u0022:4,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u4E0A\\u7B49\\u6C89\\u8239\\u8033\\u98FE\u0022,\u0022quantity\u0022:9,\u0022unitPrice\u0022:30000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u947D\\u77F3\u0022,\u0022quantity\u0022:25,\u0022unitPrice\u0022:4,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-22T15:43:46\u002B08:00",
+      "recordedBy": "\u6B38\u771F\u7684\u5047\u7684\u5566"
+    },
+    {
+      "id": "00000001787380830819_c7462d0e-49e4-4b05-8598-d9908952e513",
+      "rawId": "c7462d0e-49e4-4b05-8598-d9908952e513",
+      "fleetId": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "fleetName": "3\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u624B\u9432 x5, \u6C89\u8239\u6212\u6307 x5, \u85CD\u5BF6\u77F3 x26, \u9EC3\u91D1\u9320 x21",
+      "estimatedValue": 86033,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:9000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u6C89\\u8239\\u6212\\u6307\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:8000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u85CD\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:26,\u0022unitPrice\u0022:5,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u9EC3\\u91D1\\u9320\u0022,\u0022quantity\u0022:21,\u0022unitPrice\u0022:43,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-22T14:40:30\u002B08:00",
+      "recordedBy": "\u6B38\u771F\u7684\u5047\u7684\u5566"
+    },
     {
       "id": "00000001787380654544_2f1f0223-80a6-41e0-87bf-537eacb8cff3",
       "rawId": "2f1f0223-80a6-41e0-87bf-537eacb8cff3",
@@ -5510,5 +5536,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-22T06:39:45Z"
+  "lastUpdated": "2026-08-22T07:44:13Z"
 }
