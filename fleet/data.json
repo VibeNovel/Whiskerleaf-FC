@@ -5,28 +5,28 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-30T09:11:24.086987Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-29T10:42:55.6944594Z"
+      "updatedAt": "2026-08-29T10:44:24.0913412Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-08-30T09:36:10.2379402Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-08-29T10:43:23.3708588Z"
+      "updatedAt": "2026-08-29T10:44:10.248242Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -34,13 +34,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-08-28T07:39:41.0562161Z",
+      "returnAt": "2026-08-30T09:11:15.6292228Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-08-27T09:12:41.0599214Z"
+      "updatedAt": "2026-08-29T10:44:15.6332412Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-08-28T00:47:53.1389095Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "\u96F2\u6D7717",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1897,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002217|1897\u0022}",
-      "updatedAt": "2026-08-26T17:10:53.1508407Z"
+      "updatedAt": "2026-08-29T10:43:48.349763Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -114,6 +114,32 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001788000228339_148bd6dc-1120-422d-8bc4-9c2668f3d569",
+      "rawId": "148bd6dc-1120-422d-8bc4-9c2668f3d569",
+      "fleetId": "8de6c018-2586-45a8-94a0-a380c051fb79",
+      "fleetName": "1\u865F \u98DB\u7A7A\u8247",
+      "fleetType": "AIRSHIP",
+      "route": "\u96F2\u6D7717",
+      "items": "\u6728\u6750 x1",
+      "estimatedValue": -1,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6728\\u6750\u0022,\u0022quantity\u0022:1,\u0022unitPrice\u0022:0,\u0022source\u0022:\u0022none\u0022,\u0022recognized\u0022:false}]",
+      "createdAt": "2026-08-29T18:43:48\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
+    {
+      "id": "00000001788000217565_5e8a76cf-d2ad-4269-b590-b232c5c7769c",
+      "rawId": "5e8a76cf-d2ad-4269-b590-b232c5c7769c",
+      "fleetId": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "fleetName": "3\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u767D\u91D1\u9320 x20, \u7D05\u5BF6\u77F3 x25",
+      "estimatedValue": 150,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u767D\\u91D1\\u9320\u0022,\u0022quantity\u0022:20,\u0022unitPrice\u0022:5,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true},{\u0022name\u0022:\u0022\\u7D05\\u5BF6\\u77F3\u0022,\u0022quantity\u0022:25,\u0022unitPrice\u0022:2,\u0022source\u0022:\u0022market\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-08-29T18:43:37\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001788000203362_3a698950-3918-4941-bc38-6aa6f31edef6",
       "rawId": "3a698950-3918-4941-bc38-6aa6f31edef6",
@@ -5744,5 +5770,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-08-29T10:43:25Z"
+  "lastUpdated": "2026-08-29T10:44:25Z"
 }
