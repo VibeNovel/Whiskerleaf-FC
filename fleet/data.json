@@ -5,42 +5,42 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-09T13:05:30.4527669Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-09-08T14:36:37.8258791Z"
+      "updatedAt": "2026-09-08T14:38:30.4675577Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-09T13:30:36.999733Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-09-08T14:36:51.1862958Z"
+      "updatedAt": "2026-09-08T14:38:37.003862Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
       "name": "3\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-09-08T12:33:25.3572685Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-09-07T14:06:25.3610216Z"
+      "updatedAt": "2026-09-08T14:37:40.407397Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -62,13 +62,13 @@
       "type": "AIRSHIP",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-09-07T22:02:03.0767775Z",
+      "returnAt": "2026-09-09T21:34:13.2922773Z",
       "selectedSectors": "\u96F2\u6D7718",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1856,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002218|1856\u0022}",
-      "updatedAt": "2026-09-06T15:06:03.0913125Z"
+      "updatedAt": "2026-09-08T14:38:13.3140754Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -114,6 +114,32 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001788878268959_761f30d9-761a-4391-b0dc-2d0fb40de755",
+      "rawId": "761f30d9-761a-4391-b0dc-2d0fb40de755",
+      "fleetId": "8de6c018-2586-45a8-94a0-a380c051fb79",
+      "fleetName": "1\u865F \u98DB\u7A7A\u8247",
+      "fleetType": "AIRSHIP",
+      "route": "\u96F2\u6D7718",
+      "items": "\u6DF1\u8272\u6C34\u6676 x1",
+      "estimatedValue": 16,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6DF1\\u8272\\u6C34\\u6676\u0022,\u0022quantity\u0022:1,\u0022unitPrice\u0022:16,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-09-08T22:37:48\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
+    {
+      "id": "00000001788878260398_0ac62e03-852f-41ec-8f2b-310d11815f40",
+      "rawId": "0ac62e03-852f-41ec-8f2b-310d11815f40",
+      "fleetId": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "fleetName": "3\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u624B\u9432 x4",
+      "estimatedValue": 36000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u624B\\u9432\u0022,\u0022quantity\u0022:4,\u0022unitPrice\u0022:9000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-09-08T22:37:40\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001788878211177_d05eb000-2574-4026-90b2-b5f50eca4e68",
       "rawId": "d05eb000-2574-4026-90b2-b5f50eca4e68",
@@ -6160,5 +6186,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-09-08T14:37:39Z"
+  "lastUpdated": "2026-09-08T14:38:39Z"
 }
