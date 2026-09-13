@@ -5,42 +5,42 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-14T13:07:46.0261693Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-09-13T14:39:02.7312291Z"
+      "updatedAt": "2026-09-13T14:40:46.0304205Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-14T13:32:51.1661114Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-09-13T14:39:19.7965543Z"
+      "updatedAt": "2026-09-13T14:40:51.1697092Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
       "name": "3\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-14T13:07:57.3796552Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-09-13T14:39:52.5497093Z"
+      "updatedAt": "2026-09-13T14:40:57.3828881Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -62,13 +62,13 @@
       "type": "AIRSHIP",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-09-12T09:51:50.1494262Z",
+      "returnAt": "2026-09-13T21:21:25.2024035Z",
       "selectedSectors": "\u96F2\u6D7718",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
-      "lastDurationMinutes": 2816,
-      "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002218|2816\u0022}",
-      "updatedAt": "2026-09-10T10:55:50.1638156Z"
+      "lastDurationMinutes": 401,
+      "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002218|401\u0022}",
+      "updatedAt": "2026-09-13T14:40:25.2122582Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -114,6 +114,19 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001789310408643_1397ed06-50d0-4bef-b01c-5b5f3abcae56",
+      "rawId": "1397ed06-50d0-4bef-b01c-5b5f3abcae56",
+      "fleetId": "8de6c018-2586-45a8-94a0-a380c051fb79",
+      "fleetName": "1\u865F \u98DB\u7A7A\u8247",
+      "fleetType": "AIRSHIP",
+      "route": "\u96F2\u6D7718",
+      "items": "\u6DF1\u8272\u6C34\u6676 x1",
+      "estimatedValue": 16,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6DF1\\u8272\\u6C34\\u6676\u0022,\u0022quantity\u0022:1,\u0022unitPrice\u0022:16,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-09-13T22:40:08\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001789310392540_1194b799-f49b-4286-af5c-d1a37cecefdc",
       "rawId": "1194b799-f49b-4286-af5c-d1a37cecefdc",
@@ -6355,5 +6368,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-09-13T14:40:04Z"
+  "lastUpdated": "2026-09-13T14:41:04Z"
 }
