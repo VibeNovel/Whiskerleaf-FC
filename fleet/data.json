@@ -5,28 +5,28 @@
       "name": "1\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-18T09:19:36.2778033Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-09-17T10:51:15.8041491Z"
+      "updatedAt": "2026-09-17T10:52:36.3096963Z"
     },
     {
       "id": "b64f9d94-95d3-43d9-92ba-030965a1f232",
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-09-18T09:44:41.3108217Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1372,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1372\u0022}",
-      "updatedAt": "2026-09-17T10:51:53.9020776Z"
+      "updatedAt": "2026-09-17T10:52:41.3179272Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
@@ -34,13 +34,13 @@
       "type": "SUBMERSIBLE",
       "rank": 1,
       "status": "EXPLORING",
-      "returnAt": "2026-09-15T12:20:30.029242Z",
+      "returnAt": "2026-09-18T09:19:46.5047491Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1347,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1347\u0022}",
-      "updatedAt": "2026-09-14T13:53:30.0327147Z"
+      "updatedAt": "2026-09-17T10:52:46.5098927Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "EXPLORING",
-      "returnAt": "2026-09-13T21:21:25.2024035Z",
+      "status": "IDLE",
+      "returnAt": null,
       "selectedSectors": "\u96F2\u6D7718",
       "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 401,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002218|401\u0022}",
-      "updatedAt": "2026-09-13T14:40:25.2122582Z"
+      "updatedAt": "2026-09-17T10:52:02.7348891Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -114,6 +114,32 @@
     }
   ],
   "history": [
+    {
+      "id": "00000001789642330841_d60ea64c-0aa7-492c-bb35-ca34b92aac8a",
+      "rawId": "d60ea64c-0aa7-492c-bb35-ca34b92aac8a",
+      "fleetId": "360896a9-824f-42b6-ae55-64fabf25183c",
+      "fleetName": "3\u865F \u6F5B\u6C34\u8247",
+      "fleetType": "SUBMERSIBLE",
+      "route": "O \u2192 J",
+      "items": "\u6C89\u8239\u8033\u98FE x5",
+      "estimatedValue": 50000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u8033\\u98FE\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:10000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-09-17T18:52:10\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
+    {
+      "id": "00000001789642322723_95547155-08f9-401d-a6f9-9eb8d74b82ef",
+      "rawId": "95547155-08f9-401d-a6f9-9eb8d74b82ef",
+      "fleetId": "8de6c018-2586-45a8-94a0-a380c051fb79",
+      "fleetName": "1\u865F \u98DB\u7A7A\u8247",
+      "fleetType": "AIRSHIP",
+      "route": "\u96F2\u6D7718",
+      "items": "\u6C89\u8239\u8033\u98FE x5",
+      "estimatedValue": 50000,
+      "itemBreakdown": "[{\u0022name\u0022:\u0022\\u6C89\\u8239\\u8033\\u98FE\u0022,\u0022quantity\u0022:5,\u0022unitPrice\u0022:10000,\u0022source\u0022:\u0022npc\u0022,\u0022recognized\u0022:true}]",
+      "createdAt": "2026-09-17T18:52:02\u002B08:00",
+      "recordedBy": "\u661F\u5E7B\u963F"
+    },
     {
       "id": "00000001789642313890_7f563809-220d-4f14-a008-9e2a7dcd6f8e",
       "rawId": "7f563809-220d-4f14-a008-9e2a7dcd6f8e",
@@ -6433,5 +6459,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-09-17T10:51:55Z"
+  "lastUpdated": "2026-09-17T10:52:55Z"
 }
