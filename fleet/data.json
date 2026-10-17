@@ -61,14 +61,14 @@
       "name": "1\u865F \u98DB\u7A7A\u8247",
       "type": "AIRSHIP",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
-      "selectedSectors": "",
-      "region": "",
+      "status": "EXPLORING",
+      "returnAt": "2026-10-18T18:44:39.5031011Z",
+      "selectedSectors": "\u96F2\u6D7718",
+      "region": "\u96F2\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1856,
       "mapHistory": "{\u0022\u96F2\u6D77\u0022:\u002218|1856\u0022}",
-      "updatedAt": "2026-10-17T11:48:09.5104957Z"
+      "updatedAt": "2026-10-17T11:48:39.5207121Z"
     },
     {
       "id": "7fdfdc7d-f5b6-48d0-93fd-88d38465462f",
@@ -7005,5 +7005,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-10-17T11:48:10Z"
+  "lastUpdated": "2026-10-17T11:49:10Z"
 }
