@@ -19,28 +19,28 @@
       "name": "2\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-10-23T08:53:49.527648Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1356,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1356\u0022}",
-      "updatedAt": "2026-10-22T10:16:34.0388557Z"
+      "updatedAt": "2026-10-22T10:17:49.5317089Z"
     },
     {
       "id": "360896a9-824f-42b6-ae55-64fabf25183c",
       "name": "3\u865F \u6F5B\u6C34\u8247",
       "type": "SUBMERSIBLE",
       "rank": 1,
-      "status": "IDLE",
-      "returnAt": null,
+      "status": "EXPLORING",
+      "returnAt": "2026-10-23T08:29:56.6443422Z",
       "selectedSectors": "O \u2192 J",
       "region": "\u6EBA\u6C92\u6D77",
       "favoriteRoute": "",
       "lastDurationMinutes": 1332,
       "mapHistory": "{\u0022\u6EBA\u6C92\u6D77\u0022:\u0022O,J|1332\u0022}",
-      "updatedAt": "2026-10-22T10:17:21.6017364Z"
+      "updatedAt": "2026-10-22T10:17:56.6482814Z"
     },
     {
       "id": "f0a24cef-829b-46de-a58b-e40dd4b376f7",
@@ -7187,5 +7187,5 @@
       "recordedBy": "\u6417\u86CB\u9EBB\u7CEC"
     }
   ],
-  "lastUpdated": "2026-10-22T10:17:45Z"
+  "lastUpdated": "2026-10-22T10:18:45Z"
 }
